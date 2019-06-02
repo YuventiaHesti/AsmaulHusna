@@ -55,13 +55,13 @@
             android:padding="20dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@color/colorAccent"
+            android:src="@drawable/playicon"
             android:layout_weight="1"/>
         <ImageView
             android:padding="20dp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@color/colorAccent"
+            android:src="@drawable/stopicon"
             android:layout_weight="1"/>
     </LinearLayout>
     <ScrollView

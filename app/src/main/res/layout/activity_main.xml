@@ -4,13 +4,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity.MainActivity">
+    tools:context=".Activity.MainActivity"
+    android:id="@+id/splashscreen">
 
-    <Button
-        android:text="Tekan Aku"
-        android:layout_centerInParent="true"
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/wallpaper"
+        android:scaleType="fitXY"/>
+    <TextView
+        android:text="Asmaul Husna"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvSplash"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="37dp" />
+    <ProgressBar
+        android:id="@+id/progresBar1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/btnMenuUtama"/>
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"/>
+
 
 </RelativeLayout>
