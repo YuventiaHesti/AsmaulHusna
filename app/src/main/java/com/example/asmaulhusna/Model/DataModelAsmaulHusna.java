@@ -51,9 +51,9 @@ public class DataModelAsmaulHusna {
                     "suara",
                     "Karena merasa dirinya sangat hebat, Raja Firaun dari Mesir menganggap dirinya sebagai Tuhan. Ia mengharuskan semua rakyatnya, juga keluarganya menyembah dirinya seperti Tuhan.\n" +
                             "\n" +
-                            "Pada waktu itu, Allah Subhanallahu wa Ta'ala. kemudian mengutus Nabi Musa untuk mengingatkan kemunkaran Firaun. Namun, Firaun menentangnya. Bahkan, Firaun mencoba mengejar untuk membunuh Nabi Musa. Saat itu, Nabi Musa dan umatnya pergi meninggalkan Mesir.\n" +
+                            "Pada waktu itu, Allah Subhanallahu wa Ta'ala kemudian mengutus Nabi Musa untuk mengingatkan kemunkaran Firaun. Namun, Firaun menentangnya. Bahkan, Firaun mencoba mengejar untuk membunuh Nabi Musa. Saat itu, Nabi Musa dan umatnya pergi meninggalkan Mesir.\n" +
                             "\n" +
-                            "Dengan seizin Allah Subhanallahu wa Ta'ala., saat itu Nabi Musa dan umatnya berhasil menyeberang Laut Merah. Laut Merah terbelah dua menjadi jalan tanah yang bisa dilalui Nabi Musa dan rombongannya. Di belakang, Firaun dan pasukannya mengejarnya. Saat Firaun dan pasukannya berada di tengah-tengah jalan itu. Tiba-tiba air laut menyatu kembali. Maka mereka pun tenggelam di tengah Laut Merah.",
+                            "Dengan seizin Allah Subhanallahu wa Ta'ala, saat itu Nabi Musa dan umatnya berhasil menyeberang Laut Merah. Laut Merah terbelah dua menjadi jalan tanah yang bisa dilalui Nabi Musa dan rombongannya. Di belakang, Firaun dan pasukannya mengejarnya. Saat Firaun dan pasukannya berada di tengah-tengah jalan itu. Tiba-tiba air laut menyatu kembali. Maka mereka pun tenggelam di tengah Laut Merah.",
                     "http://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-3-al-maalik-kenapa-firaun-mengaku-dirinya-tuhan.jpg",
                     "Allah Maha Merajai karena setiap makhluk tunduk pada-Nya. Allah Subhanallahu wa Ta'ala pun memiliki nama Al-Maliik.",
                     "Kenapa Firaun Mengaku Dirinya Tuhan?"
@@ -89,7 +89,11 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Pemberi Keamanan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Dengan tergopoh-gopoh, seorang lelaki Yahudi datang menemui Khalifah Umar bin Khattab. “Wahai, khalifah. Aku sengaja datang menghadapmu untuk mengabarkan tentang gubukku. Gubernur Amru bin Ash, bawahan khalifah, telah menghancurkan gubukku. Alasannya, gubukku sudah mengganggu keindahan kota.”\n" +
+                            "\n" +
+                            "Setelah mendapat laporan itu, Khalifah Umar lalu memanggil Amru bin Ash. “Janganlah engkau semena-semena pada siapapun. Meski pun ia seorang Yahudi. Sekarang bangun kembali gubuk orang yahudi itu seperti semula.”\n" +
+                            "\n" +
+                            "Tentu saja orang Yahudi itu terkagum-kagum dengan kebijaksanaan Khalifah. Meskipun dirinya seorang Yahudi, namun Islam tetap melindungi keamanannya. Saat itu pula, ia  lalu masuk Islam.",
                     "http://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-6-Kisah-Asmaul-Husna-Al-Mu’min-Gubuk-Kakek-Yahudi-dan-Keindahan-Kota.jpg",
                     "AllahSubhanallahu wa Ta'ala menanamkan keimanan di hati para hamba-Nya serta melindungi mereka yang mencari perlindungan-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Mu'min.",
                     "Gubuk Kakek Yahudi dan Keindahan Kota"
@@ -99,7 +103,9 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Memelihara/Merawat",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Allah Subhanallahu wa Ta'ala Maha Memelihara, terutama pada hamba-Nya yang bertakwa. Nabi Muhammad adalah salah satu nabi kekasih Allah Subhanallahu wa Ta'ala. Saat itu, Nabi Muhammad dimusuhi oleh Abu Jahal dan kaum musyrikin Quraisy. Karena mereka tak suka dengan dakwah Nabi Muhammad Shallallahu'alaihi Wasallam yang mengajak pada kebenaran.\n" +
+                            "\n" +
+                            "Setiap subuh, Nabi Muhammad biasa melaksanakan salat Subuh di depan Kakbah. “Aku akan menjatuhkan batu besar ke atas kepala Muhammad saat dia sedang sujud,” kata Abu Jahal sambil bersiap-siap menjatuhkan sebuah batu besar. Namun tiba-tiba datang seekor unta raksasa mau menerkam Abu Jahal. Tentu saja Abu Jahal berlari ketakutan. Akhirnya, ia pun gagal melaksanakan niatnya untuk membunuh Nabi Muhammad Shallallahu'alaihi Wasallam.",
                     "kisahGambar",
                     "Setiap makhluk berada dalam genggaman Allah Subhanallahu wa Ta'ala. Allah pula yang memelihara kehidupan setiap makhluk-Nya, sehingga Allah memiliki nama Al-Muhaimin.",
                     "Unta Raksasa Pelindung Rasulullah"
@@ -123,7 +129,9 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Perkasa",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Allah Yang Mahaperkasa senantiasa akan memberikan pertolongan pada hamba-hamba-Nya yang bertakwa. Pada saat kaum muslim kesulitan mengepung sebuah benteng musuh. Tiba-tiba datang seseorang yang memakai tutup muka. Dengan penuh keberanian ia merobohkan beberapa prajurit musuh sehingga akhirnya ia berhasil memasuki benteng. Ia lalu memberi komando agar semua pasukan muslim masuk ke dalam benteng.\n" +
+                            "\n" +
+                            "Setelah bertempur hebat, akhirnya pasukan muslim berhasil memenangkan pertempuran itu. Anehnya, orang misterius itu hilang tidak diketahui ke mana perginya. Namun suatu malam, dengan tetap memakai tutup muka, ia mendatangi kemah panglima muslim. “Aku  sengaja menyembunyikan identitasku. Karena aku berjuang hanya ingin mendapatkan pahala dari Allah. Bukan pujian atau hadiah dari manusia,” kata orang misterius itu sambil pergi menghilang.",
                     "kisahGambar",
                     "Jika berkehendak maka tak ada satupun makhluk yang dapat mencegah-Nya. Allah Maha Perkasa, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Jabbaar.",
                     "Pahlawan yang Misterius"
@@ -133,7 +141,11 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Pemilik Segala Keagungan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Para sahabat terkagum-kagum saat melihat Khalifah Umar bin Khattab mengangkut sebuah gentong air di atas kepalanya. “Wahai, Khalifah. Kenapa engkau tidak menyuruh kami untuk mengangkut gentong air itu?”\n" +
+                            "\n" +
+                            "“Nggak apa-apa, sahabatku,” jawab Umar sambil terus berjalan. “Hal ini lebih baik aku lakukan sendiri, daripada aku harus menyuruh orang lain mengangkutnya.”\n" +
+                            "\n" +
+                            "“Ketahuilah, wahai sahabatku,” tambah Umar, “Hal ini aku lakukan untuk mengalahkan rasa kesombongan pada diriku. Biasanya jika aku menyuruh orang lain, akan timbul kesombongan pada diriku….”",
                     "kisahGambar",
                     "Dengan kebesaran-Nya setiap makhluk mendapatkan apa yang diinginkan. Allah Subhanallahu wa Ta'ala memiliki segala keagungan, sehingga Allah Subhanallahu wa Ta'ala dinamakan Al-Mutakabbir.",
                     "Untuk Mengalahkan Rasa Sombong"
@@ -143,7 +155,11 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Pencipta",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Nabi Idris merupakan keturunan keenam dari Nabi Adam Alaihis Salam Nama aslinya adalah Akhnuh. Nabi Idris dikenal sebagai manusia pertama yang memiliki kepandaian menjahit pakaian. Sehingga ia pun bisa menciptakan pakaian untuk dikenakan manusia pada masa itu. Setiap kali memasukkan jarum pada kain, ia selalu bertasbih.\n" +
+                            "\n" +
+                            "Allah Subhanallahu wa Ta'ala juga memberi kepandaian lainnya pada Nabi Idris. Ia menjadi manusia pertama yang bisa menunggang kuda dan menulis. Selain itu ia juga memiliki kepandaian lainnya untuk menciptakan berbagai peralatan untuk mempermudah pekerjaan manusia.\n" +
+                            "\n" +
+                            "Karena tidak pernah berputus asa dalam menjalankan tugasnya berdakwah dan sangat pemberani mengadapi tentangan kaumnya, maka Nabi Idris pun dijuluki Asadul-usud. Singa dari segala singa.",
                     "kisahGambar",
                     "Allah Subhanallahu wa Ta'ala menciptakan segala sesuatu dari ketiadaan menjadi ada, sehingga Allah Subhanallahu wa Ta'ala dinamakan Al-Khaaliq.",
                     "Manusia Pertama yang Menjahit Pakaian"
@@ -165,7 +181,9 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Membuat Bentuk",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Karena ukurannya yang kecil dan juga sering menimbulkan kerugian, kita sering meremehkan keberadaan seekor ulat. Begitu  pula pada saat zaman Nabi Daud. Suatu hari, Nabi Daud sedang khusyuk membaca Kitab Zabur. Tiba-tiba ia melihat seekor ulat merayap di dekatnya. Timbul pertanyaan di dalam hatinya, “Kenapa Allah Subhanallahu wa Ta'ala menciptakan seekor ulat?”\n" +
+                            "\n" +
+                            "Mendengar hal itu, si ulat lalu berkata, “Engkau boleh melihat bentukku yang kecil. Tapi, ketahuilah. Tiap malam aku selalu membaca tasbih dan selawat masing-masing 1000 kali setiap malam. Aku juga ingin tetap bernilai di hadapan Allah Subhanallahu wa Ta'ala yang telah menciptakanku….” Teguran ulat itu membuat Nabi Daud tersadar dan segera mohon ampun pada Allah Subhanallahu wa Ta'ala.",
                     "kisahGambar",
                     "Allah membentuk setiap makhluk dalam bentuk yang sebaik-baiknya, sehingga Allah Subhanallahu wa Ta'ala dinamakan Al-Mushawwir.",
                     "Nabi Daud dan Seekor Ulat"
@@ -175,7 +193,8 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Pengampun",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Suatu malam, Abu Lahab dan istrinya Ummi Jamil bermaksud mencelakakan Nabi Muhammad. Saat itu, Nabi Muhammad sedang shalat. Abu Jahal dan Ummu Jamil mengendap-endap mendekari Rasul. Tiba-tiba keajaiban terjadi. Tubuh Abu Lahab dan Ummu Jamil tak bisa digerakkan. Mereka berdiri seperti patung. Mereka tidak bisa bergerak sama sekali sampai hamper pagi menjelang.\n" +
+                            "Dengan memelas Abu Jahal memohon, “Muhammad… tolong lepaskan kami…” Rasulullah seorang yang pemaaf dan pengampun. “Baiklah aku akan memaafkan kalian. Asalkan kalian berjanji tidak akan mengganggu aku lagi.” Maka setelah itu, Abu Lahab dan istrinya , Ummu Jamil akhirnya bisa kembali bergerak. Dan dengan tergesa-gesa mereka segera pulang.\n",
                     "kisahGambar",
                     "Ampunan Allah Subhanallahu wa Ta'ala teramat luas. Asalkan mau bertobat, Allah tentu akan mengampuni dosanya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Ghaffaar.",
                     "Abu Lahab dan Ummu Jamil Jadi Patung"
@@ -185,7 +204,9 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Penunjuk Kekuasaan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Pada suatu pertempuran, Ali bin Abi Thalib berhasil mendesak seorang pasukan musuh. Seorang yahudi. Saat akan menghunuskan pedangnya ke arah si Yahudi, tiba-tiba, si Yahudi itu meludahi Ali. Tentu saja Ali benar-benar marah saat itu. Ia ingin sekali saat itu membunuh Yahudi. Namun setelah berpikir sejenak, tiba-tiba ia kembali menyarungkan pedangnya lagi.\n" +
+                            "Si yahudi keheranan, “kemapa engkau tidak jadi membunuhku?” Ali kemudian berkata, “kalau aku membunuhmu saat ini, berarti aku membunuhmu bukan karena Allah. Tapi karena rasa marahku kepadamu…”\n" +
+                            "Mendengar hal itu, si Yahudi jadi terenyuh. “Betapa indahnya ajaran islam itu. Karena Alla, engkau sampai bisa mengurungkan niatmu untuk membunuhku. Padahal kesempatan itu sangat mudah…” Maka dengan penuh kesadaran, ia pun lalu masuk Islam.\n",
                     "kisahGambar",
                     "Allah senantiasa berkuasa melakukan segala sesuatu sesuai kehendak-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qahhaar.",
                     "Membunuh Bukan Karena Allah"
@@ -195,7 +216,9 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Pemberi",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Allah Subhanallahu wa Ta'ala Maha pemberi. Taka da satupun makhluk ciptaan-Nya yang tak pernah merasakan nikmat pemberian-Nya. \n" +
+                            "Begitu pula yang terjadi pada diri Abu hanifah an-Nu’man. Ia seseorang pedagang yang berbudi luhur, penyantun, dan terkenal suka bersedekah pada fakir miskin, ia lebih suka memberi daripada menerima. Sehingga setiap akhir tahun ia akan memberikan sebagian keuntungan dagangnya untuk fakir miskin.\n" +
+                            "Selain sebagai seorang pedagang, ia dikenal juga sebagai seorang ahli fikih dan ahli ibadah. Dengan kemuliaan pribadinya itu, ternyata membuat usahanya ikut terpengaruh, orang-orang jadi lebih senang membeli barang di tokonya disbanding pada orang lain.\n",
                     "kisahGambar",
                     "Allah memiliki kebaikan dan pemberi karunia yang tak terbatas, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Wahhaab.",
                     "Kemuliaan Abu Hanifah an-Nu'man"
@@ -205,7 +228,8 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Pemberi Rezeki",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Jangan pernah takut kehilangan rezeki, jika kita telah berbuat jujur. Bukankah, semua rezeki itu berasal dari Allah Subhanallahu wa Ta'ala Ada seseorang wanita shalihah yang hidup kekurangan. Suatu hari, suami wanita itu menemukan sekantung dinar. Tapi, istrinya menolak saat kantung uang itu diberikan kepadanya. “Aku tidak akan menerima uang ini karena itu bukan milik kita. Cepat engkau kembalikan uang itu.” Suruh istrinya.\n" +
+                            "Suami wanita itu salihah itu pun segera kembali ke tempat tadi ia menemukan sekantung uang dinar. Secara kebetulan ia bertemu dengan pemiliknya. Ternyata, si pemilik uang dinar itu memberikan semua uang itu pada suami shalihah. Bahkan, ia menambahkan 900 dinar lagi. “karena engkau dan istrimu telah bersikap jujur mau mengembalkan sekantung uang ini…” kata si pemilik uang itu takjub.\n",
                     "kisahGambar",
                     "Allah telah menjamin rezeki semua makhluk-Nya. Allah merupakan sumber rezeki semua makhluk, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Ar-Razzaaq.",
                     "Keberuntungan Uang Temuan"
@@ -1381,7 +1405,7 @@ public class DataModelAsmaulHusna {
                             "\n" +
                             "Begitu pula saat melihat matahari di siang hari, “Apakah itu tuhanku?”\n" +
                             "\n" +
-                            "Namun, pada saat senja, matahari itu terbenam. “Tuhan tak mungkin terbenam. Tuhan Mahakekal,” tegas Nabi Ibrahim as. dengan yakin.\n" +
+                            "Namun, pada saat senja, matahari itu terbenam. “Tuhan tak mungkin terbenam. Tuhan Mahakekal,” tegas Nabi Ibrahim Alaihis Salam dengan yakin.\n" +
                             "\n" +
                             "Akhirnya dengan kecerdasannya, Nabi Ibrahim Alaihis Salam bisa menemukan tuhannya.\n" +
                             "\n" +
@@ -1392,7 +1416,7 @@ public class DataModelAsmaulHusna {
                             "Pesan moral: Semua yang ada di bumi itu akan binasa. Dan tetap kekal Dzat Tuhanmu yang mempunyai kebesaran dan kemuliaan. (QS. Ar-Rahmaan [55] : 26-27)",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-96-Al-Baaqii-Cara-Unik-Nabi-Ibrahim-as.-Mencari-Tuhan--1024x721.jpg",
                     "Allah Subhanallahu wa Ta'ala berbeda dengan makhluk. Hanya Allah Subhanallahu wa Ta'ala Yang Mahakekal, sehingga Allah Subhanallahu wa Ta'ala memiliki sifat Al-Baaqii.",
-                    "Cara Unik Nabi Ibrahim as. Mencari Tuhan"
+                    "Cara Unik Nabi Ibrahim Alaihis Salam Mencari Tuhan"
             },
             {"97",
                     "Al-Waarits",
@@ -1432,23 +1456,66 @@ public class DataModelAsmaulHusna {
             },
             {"98",
                     "Ar-Rasyiid",
-                    "Yang Maha Menyempitkan",
+                    "Yang Maha Pemberi Petunjuk",
                     "kosong",
                     "suara",
-                    "kisah",
-                    "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Tahukah kalian, apakah warisan nabi dan rasul yang paling berharga?\n" +
+                            "\n" +
+                            "Bukanlah kekayaan dan harta yang diwariskan nabi dan rasul.\n" +
+                            "\n" +
+                            "Melainkan ilmu dan keimanan.\n" +
+                            "\n" +
+                            "Saat Nabi Muhammad Shallallahu'alaihi Wasallam menjelang wafat, beliau berpesan kepada umatnya,\n" +
+                            "\n" +
+                            "“Telah kutinggalkan dua perkara. Jika umatku berpegang teguh kepada keduanya. Umatku tidak akan sesat selama-lamanya. Berpegang teguhlah umatku pada Al-Qur’an dan hadits.”\n" +
+                            "\n" +
+                            "Begitu pula pada nabi-nabi sebelum Nabi Muhammad Shallallahu'alaihi Wasallam.\n" +
+                            "\n" +
+                            "Seperti Nabi Ibrahim Alaihis Salam.\n" +
+                            "\n" +
+                            "Sebelum wafat, Nabi Ibrahim Alaihis Salam berpesan pada putra-putrinya, “Janganlah kalian mati, kecuali dalam keadaan memeluk Islam. Sesungguhnya aku telah memilih Islam sebagai agamamu….”\n" +
+                            "\n" +
+                            "Pesan moral: “Barangsiapa yang diberi petunjuk oleh Allah, maka dialah yang mendapat petunjuk; dan barangsiapa yang disesatkan-Nya, maka kamu tidak akan mendapatkan seorang pemimpin pun yang dapat memberi petunjuk kepadanya.”\n" +
+                            "(QS.Al Kahfi [18]: 17)",
+                    "https://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-98-Ar-Rosyiid-Apa-Pesan-Nabi-Ibrahim-pada-Keluarganya-Sebelum-Wafat-1024x721.jpg",
+                    "Allah Subhanallahu wa Ta'ala. membimbing dan memberi petunjuk hamba-Nya ke jalan yang benar, sehingga Allah Subhanallahu wa Ta'ala. memiliki nama Ar-Rasyiid.",
+                    "Apa Pesan Nabi Ibrahim pada Keluarganya Sebelum Wafat?"
             },
             {"99",
                     "Ash-Shabuur",
-                    "Yang Maha Menyempitkan",
+                    "Yang Maha Sabar",
                     "kosong",
                     "suara",
-                    "kisah",
-                    "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Nabi Yunus Alaihis Salam pernah kehilangan kesabaran pada saat berdakwah pada Kaum Ninawa.\n" +
+                            "\n" +
+                            "Karena setelah sekian lama berdakwah, hanya dua orang saja yang mau beriman pada Allah Subhanallahu wa Ta'ala.\n" +
+                            "\n" +
+                            "Memang Kaum Ninawa terkenal keras kepala dan senang berbuat maksiat.\n" +
+                            "\n" +
+                            "Nabi Yunus Alaihis Salam pun dengan putus asa meninggalkan Kaum Ninawa.\n" +
+                            "\n" +
+                            "Nabi Yunus Alaihis Salam lalu naik kapal laut.\n" +
+                            "\n" +
+                            "Di tengah laut, kapal itu terombang-ambing ombak besar.\n" +
+                            "\n" +
+                            "Agar tidak tenggelam, kapal itu harus dikurangi muatannya.\n"+
+                            "\n" +
+                            "Setelah diundi, ternyata Nabi Yunus as. yang harus keluar dari kapal laut itu.\n" +
+                            "\n" +
+                            "Nabi Yunus Alaihis Salam pun terjun ke dalam laut dan langsung ditelan ikan mirip paus, bernama ikan Nun.\n" +
+                            "\n" +
+                            "Selama dalam perut ikan Nun, Nabi Yunus as. menyesali sikapnya yang kurang sabar.\n" +
+                            "\n" +
+                            "Nabi Yunus Alaihis Salam pun segera bertobat.\n" +
+                            "\n" +
+                            "Selama 40 hari 40 malam, Nabi Yunus as. berdoa dan berzikir di dalam perut ikan.\n" +
+                            "\n" +
+                            "Sampai akhirnya, Allah Subhanallahu wa Ta'ala mengeluarkannya dari dalam perut ikan itu.\n" +
+                            "\n" +
+                            "Pesan moral: ”Dan taatlah kepada Allah dan Rasul-Nya dan janganlah kamu berbantah-bantahan, yang menyebabkan kamu menjadi gentar dan hilang kekuatanmu dan bersabarlah. Sesungguhnya Allah beserta orang-orang yang sabar.” (QS. Al Anfal: 46)",
+                    "https://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-99-Ash-Shobuur-40-Hari-40-Malam-Nabi-Yunus-di-dalam-Perut-Ikan--1024x721.jpg",
+                    "Allah Subhanallahu wa Ta'ala sangat sabar menghadapi umat-Nya yang membangkang, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Ash-Shabuur.",
+                    "40 Hari 40 Malam Nabi Yunus di dalam Perut Ikan"
             }
 
 

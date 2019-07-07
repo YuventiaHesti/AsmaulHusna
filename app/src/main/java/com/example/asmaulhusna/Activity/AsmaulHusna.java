@@ -56,4 +56,5 @@ public class AsmaulHusna extends AppCompatActivity {
         adapterAsmaulHusna.setListAsmaulHusna(List);
         recyclerView.setAdapter(adapterAsmaulHusna);
     }
+
 }
