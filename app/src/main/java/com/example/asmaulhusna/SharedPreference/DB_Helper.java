@@ -51,10 +51,10 @@ public class DB_Helper extends SQLiteOpenHelper {
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME_ASMAULHUSNA);
         this.onCreate(db);
     }
-    public List<AsmaulHusna> asmaulHusnaList() {
+    public List<ModelAsmaulHusna> asmaulHusnaList() {
         String query = "SELECT  * FROM " + TABLE_NAME_ASMAULHUSNA;
 
-        List<AsmaulHusna> asmaulHusnaLinkedList = new LinkedList<>();
+        List<ModelAsmaulHusna> asmaulHusnaLinkedList = new LinkedList<>();
         SQLiteDatabase db = this.getWritableDatabase();
         Cursor cursor = db.rawQuery(query, null);
         ModelAsmaulHusna asmaulhusna;
@@ -94,15 +94,15 @@ public class DB_Helper extends SQLiteOpenHelper {
         db.insert(TABLE_NAME_ASMAULHUSNA,null, values);
         db.close();
     }
-    public void deleteAsmaulHusnaRecord(String nama, Context context) {
+    public void deleteAsmaulHusnaRecord(String nomor, Context context) {
         SQLiteDatabase db = this.getWritableDatabase();
-        db.execSQL("DELETE FROM "+TABLE_NAME_ASMAULHUSNA+" WHERE nama='"+nama+"'");
-        Toast.makeText(context, "Deleted successfully.", Toast.LENGTH_SHORT).show();
+        db.execSQL("DELETE FROM "+TABLE_NAME_ASMAULHUSNA+" WHERE nomor='"+nomor+"'");
+        Toast.makeText(context, "Deleted successfully", Toast.LENGTH_SHORT).show();
 
     }
 
 
-    public Cursor checkPahlawan(String nama){
+    public Cursor checkAsmaulHusna(String nama){
         SQLiteDatabase db = this.getWritableDatabase();
         String query ="SELECT * FROM "+TABLE_NAME_ASMAULHUSNA+" WHERE nama = '"+nama+"'";
         Cursor cursor = db.rawQuery(query,null);

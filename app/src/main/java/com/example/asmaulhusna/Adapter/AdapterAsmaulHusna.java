@@ -48,9 +48,7 @@ public class AdapterAsmaulHusna extends RecyclerView.Adapter<AdapterAsmaulHusna.
         categoryViewHolder.Nomor.setText(getListAsmaulHusna().get(position).getNomor());
         categoryViewHolder.Nama.setText(getListAsmaulHusna().get(position).getNama());
         categoryViewHolder.Arti.setText(getListAsmaulHusna().get(position).getArti());
-        Glide.with(context)
-                .load(getListAsmaulHusna().get(position).getGambar())
-                .into(categoryViewHolder.Gambar);
+        categoryViewHolder.Gambar.setImageResource(Integer.parseInt(getListAsmaulHusna().get(position).getGambar()));
         categoryViewHolder.list.setOnClickListener(new CustomOnItemClickListener(position, new CustomOnItemClickListener.OnItemClickCallback() {
             @Override
             public void onItemClicked(View view, int position) {

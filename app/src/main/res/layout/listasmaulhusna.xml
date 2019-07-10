@@ -62,9 +62,10 @@
             android:orientation="vertical"
             android:layout_weight="2">
             <ImageView
+                android:layout_gravity="center"
                 android:id="@+id/ImgAsmaulHusna"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="50dp"
                 android:src="@color/colorAccent"/>
 
 

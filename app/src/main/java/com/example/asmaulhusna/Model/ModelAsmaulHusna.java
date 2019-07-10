@@ -3,6 +3,21 @@ package com.example.asmaulhusna.Model;
 public class ModelAsmaulHusna {
     String nomor, nama, arti, gambar,suara,kisah,kisahGambar, penjelasan, judulkisah;
 
+    public ModelAsmaulHusna() {
+
+    }
+    public ModelAsmaulHusna(String nomor,String nama,String arti,String gambar,String suara,String kisah,String kisahGambar,String penjelasan,String judulkisah){
+        this.nomor=nomor;
+        this.nama=nama;
+        this.arti=arti;
+        this.gambar=gambar;
+        this.suara=suara;
+        this.kisah=kisah;
+        this.kisahGambar=kisahGambar;
+        this.penjelasan=penjelasan;
+        this.judulkisah=judulkisah;
+    }
+
     public String getNomor() {
         return nomor;
     }

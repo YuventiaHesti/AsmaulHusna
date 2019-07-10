@@ -68,14 +68,14 @@
                     android:padding="4dp"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
-                    android:src="@color/colorAccent"
+                    android:src="@drawable/playicon"
                     android:layout_weight="1"/>
                 <ImageView
                     android:id="@+id/imgstop"
                     android:padding="4dp"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@color/colorAccent"
+                    android:src="@drawable/stopicon"
                     android:layout_weight="1"/>
             </LinearLayout>
             <TextView
@@ -128,15 +128,17 @@
 
                 <Button
                     android:padding="5dp"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Favorite"
                     android:gravity="center"
-                    android:layout_weight="1"/>
+                    android:layout_weight="1"
+                    android:id="@+id/btnFav"/>
                 <Button
+                    android:id="@+id/btnShare"
                     android:padding="5dp"
                     android:gravity="center"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Share"
                     android:layout_weight="1"/>

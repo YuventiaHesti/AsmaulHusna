@@ -8,6 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
+import android.widget.ImageView;
 
 import com.example.asmaulhusna.Adapter.AdapterAsmaulHusna;
 import com.example.asmaulhusna.Model.DataModelAsmaulHusna;
@@ -19,6 +21,7 @@ import java.util.List;
 
 public class AsmaulHusna extends AppCompatActivity {
     RecyclerView recyclerView;
+    ImageView Favorite;
     private ArrayList<ModelAsmaulHusna> List = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +29,7 @@ public class AsmaulHusna extends AppCompatActivity {
         setContentView(R.layout.activity_asmaul_husna);
 
         recyclerView=(RecyclerView)findViewById(R.id.recyclerview);
+        Favorite=(ImageView)findViewById(R.id.imgFavorite);
         recyclerView.setHasFixedSize(true);
 
         List.addAll(DataModelAsmaulHusna.getListData());
@@ -49,6 +53,13 @@ public class AsmaulHusna extends AppCompatActivity {
         }
         //DONE
         ShowData();
+        Favorite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(AsmaulHusna.this,FavoriteActivity.class);
+                startActivity(intent);
+            }
+        });
     }
     private void ShowData(){
         recyclerView.setLayoutManager(new LinearLayoutManager(this));

@@ -6,7 +6,24 @@
     android:layout_height="match_parent"
     tools:context=".Activity.AsmaulHusna"
     android:orientation="vertical">
-
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Asmaul Husna"
+            android:textSize="30sp"
+            android:gravity="center"/>
+        <ImageView
+            android:id="@+id/imgFavorite"
+            android:src="@drawable/stopicon"
+            android:layout_weight="4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="100dp"
@@ -21,6 +38,7 @@
         android:layout_marginTop="10dp">
 
     </android.support.v7.widget.RecyclerView>
+
 
 
 </LinearLayout>

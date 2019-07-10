@@ -1,5 +1,7 @@
 package com.example.asmaulhusna.Model;
 
+import com.example.asmaulhusna.R;
+
 import java.util.ArrayList;
 
 public class DataModelAsmaulHusna {
@@ -7,8 +9,8 @@ public class DataModelAsmaulHusna {
             {"1",
                     "Ar-Rahmaan",
                     "Yang Maha Pemurah",
-                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSfYVUFN65N-EhKCcSuLeBFgu7D4Aksqn2PkxNGDdPG742A_ndQ",
-                    "suara",
+                    String.valueOf(R.drawable.arrahmaan),
+                    String.valueOf(R.raw.arrahmaan),
                     "Suatu hari, Nabi Sulaiman Alaihis Salam bersama pasukannya sedang bepergian ke sebuah tempat.\n" +
                             "\n" +
                             "Di tengah perjalanan, Nabi Sulaiman. segera menghentikan pasukannya.\n" +
@@ -33,8 +35,8 @@ public class DataModelAsmaulHusna {
             {"2",
                     "Ar-Rahiim",
                     "Yang Maha Penyayang",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.arrahiim),
+                    String.valueOf(R.raw.arrahmaan),
                     "Suatu hari, salah seorang sahabat Rasulullah Shallallahu'alaihi Wasallam tertimpa musibah. Putra laki-lakinya yang masih kecil ditimpa  sakit keras. Maka Rasul bersama para sahabatnya, yaitu Sa’ad bin Ubadah, Mu’adz bin Jabal, Ubay bin Ka’ab, Zaid bin Tsabit, dan sahabat lainnya kemudian datang menengoknya.\n" +
                             "\n" +
                             "Dengan penuh kasih sayang, Rasul lalu mengangkat dan mendekap anak lelaki itu. Air mata Rasul sampai menetes melihat napas anak itu sudah tersendat-sendat.\n" +
@@ -47,8 +49,8 @@ public class DataModelAsmaulHusna {
             {"3",
                     "Al-Maliik",
                     "Yang Maha Merajai",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.almalik),
+                    String.valueOf(R.raw.arrahmaan),
                     "Karena merasa dirinya sangat hebat, Raja Firaun dari Mesir menganggap dirinya sebagai Tuhan. Ia mengharuskan semua rakyatnya, juga keluarganya menyembah dirinya seperti Tuhan.\n" +
                             "\n" +
                             "Pada waktu itu, Allah Subhanallahu wa Ta'ala kemudian mengutus Nabi Musa untuk mengingatkan kemunkaran Firaun. Namun, Firaun menentangnya. Bahkan, Firaun mencoba mengejar untuk membunuh Nabi Musa. Saat itu, Nabi Musa dan umatnya pergi meninggalkan Mesir.\n" +
@@ -61,8 +63,8 @@ public class DataModelAsmaulHusna {
             {"4",
                     "Al-Qudduus",
                     "Yang Maha Suci",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.alqudduus),
+                    String.valueOf(R.raw.arrahmaan),
                     "Suatu hari, Tsabit bin Ibrahim menemukan sebuah apel di jalan dan memakannya. Tiba-tiba Tsabit berseru, “Ya Allah! Apel ini bukan milikku, kenapa aku makan?” Tsabit pun kemudian menemui pemilik pohon apel itu dan minta diikhlaskan.\n" +
                             "\n" +
                             "“Aku baru akan mengikhlaskan apel itu setelah engkau bersedia menikahi putriku,” kata si pemilik pohon apel. “Tapi, putriku itu buta, tuli, dan tidak bisa berjalan….” Karena ingin mendapat keridaan Allah Subhanallahu wa Ta'ala., Tsabit pun menikahi putri pemilik apel.\n" +
@@ -75,8 +77,8 @@ public class DataModelAsmaulHusna {
             {"5",
                     "As-Salaam",
                     "Yang Maha Pemberi Keselamatan",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.assalaam),
+                    String.valueOf(R.raw.arrahmaan),
                     "Dalam suatu pertempuran, Ibnul Mubarak berhasil mengalahkan seorang tentara kafir. Sebelum ditawan, tentara musuh itu meminta pada Ibnul Mubarak agar dirinya diberi kesempatan untuk beribadah menurut kepercayaannya sendiri. Saat musuhnya sedang khusyuk beribadah, tiba-tiba timbul di hati Ibnu Mubarak untuk mencelakainya. Namun sebelum niatnya terlaksana, mendadak dari langit terdengar suara.\n" +
                             "\n" +
                             "“Kenapa engkau tidak jadi mencelakaiku?” tanya tentara kafir itu. Ibnul Mubarak pun dengan perasaan bersalah berkata, “Ada suara dari langit yang menegurku, karena aku tadi hampir saja meingkari janjiku.” Mendengar hal tersebut, tentara kafir menjadi takjub, “Tuhanmu yang Mahakasih telah menyelamatkan diriku. Tuhanmu telah memarahi hamba-Nya dan malah membela musuh-Nya….” Sejak peristiwa itu tentara kafir itu masuk Islam.",
@@ -87,8 +89,8 @@ public class DataModelAsmaulHusna {
             {"6",
                     "Al-Mu'min",
                     "Yang Maha Pemberi Keamanan",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.almu_min),
+                    String.valueOf(R.raw.arrahmaan),
                     "Dengan tergopoh-gopoh, seorang lelaki Yahudi datang menemui Khalifah Umar bin Khattab. “Wahai, khalifah. Aku sengaja datang menghadapmu untuk mengabarkan tentang gubukku. Gubernur Amru bin Ash, bawahan khalifah, telah menghancurkan gubukku. Alasannya, gubukku sudah mengganggu keindahan kota.”\n" +
                             "\n" +
                             "Setelah mendapat laporan itu, Khalifah Umar lalu memanggil Amru bin Ash. “Janganlah engkau semena-semena pada siapapun. Meski pun ia seorang Yahudi. Sekarang bangun kembali gubuk orang yahudi itu seperti semula.”\n" +
@@ -101,8 +103,8 @@ public class DataModelAsmaulHusna {
             {"7",
                     "Al-Muhaimin",
                     "Yang Maha Memelihara/Merawat",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.almuhaimin),
+                    String.valueOf(R.raw.arrahmaan),
                     "Allah Subhanallahu wa Ta'ala Maha Memelihara, terutama pada hamba-Nya yang bertakwa. Nabi Muhammad adalah salah satu nabi kekasih Allah Subhanallahu wa Ta'ala. Saat itu, Nabi Muhammad dimusuhi oleh Abu Jahal dan kaum musyrikin Quraisy. Karena mereka tak suka dengan dakwah Nabi Muhammad Shallallahu'alaihi Wasallam yang mengajak pada kebenaran.\n" +
                             "\n" +
                             "Setiap subuh, Nabi Muhammad biasa melaksanakan salat Subuh di depan Kakbah. “Aku akan menjatuhkan batu besar ke atas kepala Muhammad saat dia sedang sujud,” kata Abu Jahal sambil bersiap-siap menjatuhkan sebuah batu besar. Namun tiba-tiba datang seekor unta raksasa mau menerkam Abu Jahal. Tentu saja Abu Jahal berlari ketakutan. Akhirnya, ia pun gagal melaksanakan niatnya untuk membunuh Nabi Muhammad Shallallahu'alaihi Wasallam.",
@@ -113,8 +115,8 @@ public class DataModelAsmaulHusna {
             {"8",
                     "Al-'Aziiz",
                     "Yang Maha Gagah",
-                    "kosong",
-                    "suara",
+                    String.valueOf(R.drawable.alaziz),
+                    String.valueOf(R.raw.arrahmaan),
                     "Umar bin Khattab dikenal sebagai salah satu sahabat Rasulullah yang gagah, keras, pemberani, dan paling galak. Sehingga orang-orang pun banyak yang takut padanya.\n" +
                             "\n" +
                             "Suatu hari, ia berjalan beriringan naik kuda bersama sahabatnya. Umar berjalan di depan. Tiba-tiba Umar menoleh ke belakang. Tanpa diduga, hal yang dilakukan Umar itu ternyata membuat kaget para sahabatnya. Bahkan saking takutnya. Tali-tali kekang yang mereka pegang sampai terjatuh.\n" +
@@ -127,7 +129,7 @@ public class DataModelAsmaulHusna {
             {"9",
                     "Al-Jabbaar",
                     "Yang Maha Perkasa",
-                    "kosong",
+                    String.valueOf(R.drawable.aljabbar),
                     "suara",
                     "Allah Yang Mahaperkasa senantiasa akan memberikan pertolongan pada hamba-hamba-Nya yang bertakwa. Pada saat kaum muslim kesulitan mengepung sebuah benteng musuh. Tiba-tiba datang seseorang yang memakai tutup muka. Dengan penuh keberanian ia merobohkan beberapa prajurit musuh sehingga akhirnya ia berhasil memasuki benteng. Ia lalu memberi komando agar semua pasukan muslim masuk ke dalam benteng.\n" +
                             "\n" +
@@ -139,7 +141,7 @@ public class DataModelAsmaulHusna {
             {"10",
                     "Al-Mutakabbir",
                     "Yang Maha Pemilik Segala Keagungan",
-                    "kosong",
+                    String.valueOf(R.drawable.almutakabbir),
                     "suara",
                     "Para sahabat terkagum-kagum saat melihat Khalifah Umar bin Khattab mengangkut sebuah gentong air di atas kepalanya. “Wahai, Khalifah. Kenapa engkau tidak menyuruh kami untuk mengangkut gentong air itu?”\n" +
                             "\n" +
@@ -153,7 +155,7 @@ public class DataModelAsmaulHusna {
             {"11",
                     "Al-Khaaliq",
                     "Yang Maha Pencipta",
-                    "kosong",
+                    String.valueOf(R.drawable.alkhaaliq),
                     "suara",
                     "Nabi Idris merupakan keturunan keenam dari Nabi Adam Alaihis Salam Nama aslinya adalah Akhnuh. Nabi Idris dikenal sebagai manusia pertama yang memiliki kepandaian menjahit pakaian. Sehingga ia pun bisa menciptakan pakaian untuk dikenakan manusia pada masa itu. Setiap kali memasukkan jarum pada kain, ia selalu bertasbih.\n" +
                             "\n" +
@@ -167,7 +169,7 @@ public class DataModelAsmaulHusna {
             {"12",
                     "Al-Baari'",
                     "Yang Maha Menciptakan dari Tiada",
-                    "kosong",
+                    String.valueOf(R.drawable.albaari),
                     "suara",
                     "Allah Maha Mengadakan sesuatu. Seperti kisah si miskin yang akhirnya bisa memiliki sebuah pohon kurma. Si miskin itu bertetangga dengan seorang kaya yang pelit. Si kaya  memiliki sebatang pohon kurma yang buahnya menjuntai ke halaman rumah si miskin. Suatu hari, buah kurma itu jatuh dan dimakan oleh anak si miskin. Si orang kaya pelit itu marah dan mengorek kurma yang sudah dimakan si anak. Si miskin kemudian mengadukan hal itu pada Rasulullah Shallallahu'alaihi Wasallam..\n" +
                             "\n" +
@@ -179,7 +181,7 @@ public class DataModelAsmaulHusna {
             {"13",
                     "Al-Mushawwir",
                     "Yang Maha Membuat Bentuk",
-                    "kosong",
+                    String.valueOf(R.drawable.almushawwir),
                     "suara",
                     "Karena ukurannya yang kecil dan juga sering menimbulkan kerugian, kita sering meremehkan keberadaan seekor ulat. Begitu  pula pada saat zaman Nabi Daud. Suatu hari, Nabi Daud sedang khusyuk membaca Kitab Zabur. Tiba-tiba ia melihat seekor ulat merayap di dekatnya. Timbul pertanyaan di dalam hatinya, “Kenapa Allah Subhanallahu wa Ta'ala menciptakan seekor ulat?”\n" +
                             "\n" +
@@ -191,7 +193,7 @@ public class DataModelAsmaulHusna {
             {"14",
                     "Al-Ghaffaar",
                     "Yang Maha Pengampun",
-                    "kosong",
+                    String.valueOf(R.drawable.alghaffaar),
                     "suara",
                     "Suatu malam, Abu Lahab dan istrinya Ummi Jamil bermaksud mencelakakan Nabi Muhammad. Saat itu, Nabi Muhammad sedang shalat. Abu Jahal dan Ummu Jamil mengendap-endap mendekari Rasul. Tiba-tiba keajaiban terjadi. Tubuh Abu Lahab dan Ummu Jamil tak bisa digerakkan. Mereka berdiri seperti patung. Mereka tidak bisa bergerak sama sekali sampai hamper pagi menjelang.\n" +
                             "Dengan memelas Abu Jahal memohon, “Muhammad… tolong lepaskan kami…” Rasulullah seorang yang pemaaf dan pengampun. “Baiklah aku akan memaafkan kalian. Asalkan kalian berjanji tidak akan mengganggu aku lagi.” Maka setelah itu, Abu Lahab dan istrinya , Ummu Jamil akhirnya bisa kembali bergerak. Dan dengan tergesa-gesa mereka segera pulang.\n",
@@ -202,7 +204,7 @@ public class DataModelAsmaulHusna {
             {"15",
                     "Al-Qahhaar",
                     "Yang Maha Penunjuk Kekuasaan",
-                    "kosong",
+                    String.valueOf(R.drawable.alqahhaar),
                     "suara",
                     "Pada suatu pertempuran, Ali bin Abi Thalib berhasil mendesak seorang pasukan musuh. Seorang yahudi. Saat akan menghunuskan pedangnya ke arah si Yahudi, tiba-tiba, si Yahudi itu meludahi Ali. Tentu saja Ali benar-benar marah saat itu. Ia ingin sekali saat itu membunuh Yahudi. Namun setelah berpikir sejenak, tiba-tiba ia kembali menyarungkan pedangnya lagi.\n" +
                             "Si yahudi keheranan, “kemapa engkau tidak jadi membunuhku?” Ali kemudian berkata, “kalau aku membunuhmu saat ini, berarti aku membunuhmu bukan karena Allah. Tapi karena rasa marahku kepadamu…”\n" +
