@@ -26,8 +26,6 @@ public class DB_Helper extends SQLiteOpenHelper {
     public static final String COLUMN_KISAHGAMBAR = "kisahgambar";
     public static final String COLUMN_PENJELASAN = "penjelasan";
     public static final String COLUMN_JUDULKISAH = "judulkisah";
-    public static final String COLUMN_LANG = "langitude";
-    public static final String COLUMN_LONG = "longitude";
 
     public DB_Helper(Context context){super(
             context,DATABASE_NAME,null,DATABASE_VERSION);
@@ -44,9 +42,7 @@ public class DB_Helper extends SQLiteOpenHelper {
                 COLUMN_KISAH+" TEXT NOT NULL,"+
                 COLUMN_KISAHGAMBAR+" TEXT NOT NULL, "+
                 COLUMN_PENJELASAN+" TEXT NOT NULL,"+
-                COLUMN_JUDULKISAH+" TEXT NOT NULL,"+
-                COLUMN_LANG+" TEXT NOT NULL,"+
-                COLUMN_LONG+" TEXT NOT NULL);"
+                COLUMN_JUDULKISAH+" TEXT NOT NULL);"
         );
     }
 
