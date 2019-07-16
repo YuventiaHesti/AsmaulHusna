@@ -5,22 +5,26 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activity.AsmaulHusna"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/back3">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:background="@color/colorPrimary">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="Asmaul Husna"
+            android:fontFamily="sans-serif-smallcaps"
             android:textSize="30sp"
-            android:gravity="center"/>
+            android:gravity="center"
+            />
         <ImageView
             android:id="@+id/imgFavorite"
-            android:src="@drawable/stopicon"
-            android:layout_weight="4"
+            android:src="@drawable/star"
+            android:layout_weight="3"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
     </LinearLayout>

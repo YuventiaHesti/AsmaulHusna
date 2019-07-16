@@ -16,7 +16,12 @@ import java.util.List;
 public class DB_Helper extends SQLiteOpenHelper {
     public static final String DATABASE_NAME = "session.db";
     private static final int DATABASE_VERSION = 3;
+    //Table
     public static final String TABLE_NAME_ASMAULHUSNA = "asmaulhusna";
+    public static final String TABLE_NAME_BEST_SCORE = "bestscore";
+    //Column
+    //public static final String COLUMN_ID = "id";
+    public static final String COLUMN_SCORE = "score";
     public static final String COLUMN_NOMOR = "nomor";
     public static final String COLUMN_NAMA = "nama";
     public static final String COLUMN_ARTI = "arti";
@@ -33,6 +38,9 @@ public class DB_Helper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
+        db.execSQL("CREATE TABLE "+TABLE_NAME_BEST_SCORE+" (" +
+                COLUMN_SCORE+" TEXT NOT NULL);"
+        );
         db.execSQL("CREATE TABLE "+TABLE_NAME_ASMAULHUSNA+" (" +
                 COLUMN_NOMOR+" TEXT NOT NULL, "+
                 COLUMN_NAMA+" TEXT NOT NULL,"+
@@ -49,6 +57,7 @@ public class DB_Helper extends SQLiteOpenHelper {
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME_ASMAULHUSNA);
+        db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME_BEST_SCORE);
         this.onCreate(db);
     }
     public List<ModelAsmaulHusna> asmaulHusnaList() {
@@ -76,6 +85,32 @@ public class DB_Helper extends SQLiteOpenHelper {
     }
         return asmaulHusnaLinkedList;
     }
+    public List<ModelAsmaulHusna> highScoreList() {
+        String query = "SELECT  * FROM " + TABLE_NAME_BEST_SCORE +" ORDER BY " +COLUMN_SCORE+ " DESC LIMIT 1";
+
+        List<ModelAsmaulHusna> asmaulHusnaLinkedList = new LinkedList<>();
+        SQLiteDatabase db = this.getWritableDatabase();
+        Cursor cursor = db.rawQuery(query, null);
+        ModelAsmaulHusna asmaulhusna;
+
+        if (cursor.moveToFirst()) {
+            do {
+                asmaulhusna = new ModelAsmaulHusna();
+                asmaulhusna.setScore(cursor.getString(cursor.getColumnIndex(COLUMN_SCORE)));
+                asmaulHusnaLinkedList.add(asmaulhusna);
+            } while (cursor.moveToNext());
+        }
+        return asmaulHusnaLinkedList;
+    }
+    public void highScore(String score) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_SCORE, score);
+
+        // insert
+        db.insert(TABLE_NAME_BEST_SCORE,null, values);
+        db.close();
+    }
     public void FavoriteAsmaulHusna(ModelAsmaulHusna asmaulhusna) {
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues values = new ContentValues();
@@ -98,10 +133,14 @@ public class DB_Helper extends SQLiteOpenHelper {
         SQLiteDatabase db = this.getWritableDatabase();
         db.execSQL("DELETE FROM "+TABLE_NAME_ASMAULHUSNA+" WHERE nomor='"+nomor+"'");
         Toast.makeText(context, "Deleted successfully", Toast.LENGTH_SHORT).show();
-
     }
 
-
+    public Cursor getBestScore(){
+        SQLiteDatabase db = this.getWritableDatabase();
+        String query = "SELECT  * FROM " + TABLE_NAME_BEST_SCORE + " ORDER BY "+COLUMN_SCORE+" DESC LIMIT 1";
+        Cursor cursor = db.rawQuery(query,null);
+        return cursor;
+    }
     public Cursor checkAsmaulHusna(String nama){
         SQLiteDatabase db = this.getWritableDatabase();
         String query ="SELECT * FROM "+TABLE_NAME_ASMAULHUSNA+" WHERE nama = '"+nama+"'";

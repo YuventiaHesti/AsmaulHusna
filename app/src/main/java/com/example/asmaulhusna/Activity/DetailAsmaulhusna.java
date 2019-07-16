@@ -39,7 +39,6 @@ public class DetailAsmaulhusna extends AppCompatActivity {
         play=(ImageView)findViewById(R.id.imgplay);
         stop=(ImageView)findViewById(R.id.imgstop);
         favorite=(Button)findViewById(R.id.btnFav);
-        share=(Button)findViewById(R.id.btnShare);
         //getString
         Intent data = getIntent();
         final String Nomor = data.getStringExtra("Nomor");
@@ -67,7 +66,7 @@ public class DetailAsmaulhusna extends AppCompatActivity {
                 suara.start();
             }
         });
-        Cursor cursor = dbHelper.checkAsmaulHusna(Nama);
+        Cursor cursor = dbHelper.getBestScore();
         String nomor = null;
         if (cursor.getCount()>0){
             while (cursor.moveToNext()){

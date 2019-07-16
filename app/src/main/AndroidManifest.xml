@@ -11,7 +11,11 @@
         android:largeHeap="true"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".Activity.FavoriteActivity"></activity>
+        <activity android:name=".Activity.ContactActivity"></activity>
+        <activity android:name=".Activity.TentangActivity" />
+        <activity android:name=".Activity.HighScoreActivity" />
+        <activity android:name=".Activity.QuizActivity" />
+        <activity android:name=".Activity.FavoriteActivity" />
         <activity android:name=".Activity.ManfaatAsmaulHusna" />
         <activity android:name=".Activity.KaidahAsmaulHusna" />
         <activity android:name=".Activity.DetailAsmaulhusna" />

@@ -10,10 +10,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.example.asmaulhusna.Activity.AsmaulHusna;
+import com.example.asmaulhusna.Activity.ContactActivity;
+import com.example.asmaulhusna.Activity.HighScoreActivity;
 import com.example.asmaulhusna.Activity.KaidahAsmaulHusna;
 import com.example.asmaulhusna.Activity.ManfaatAsmaulHusna;
+import com.example.asmaulhusna.Activity.TentangActivity;
 import com.example.asmaulhusna.R;
 
 /**
@@ -21,7 +25,8 @@ import com.example.asmaulhusna.R;
  */
 public class utama extends Fragment {
 
-    ImageView asmaulhusna, kaidah, manfaat;
+    ImageView asmaulhusna, kaidah, manfaat,quiz,contact,about;
+
 
     public utama() {
         // Required empty public constructor
@@ -41,22 +46,25 @@ public class utama extends Fragment {
         asmaulhusna=(ImageView)view.findViewById(R.id.img_asmaulhusna);
         kaidah=(ImageView)view.findViewById(R.id.kaidah);
         manfaat=(ImageView)view.findViewById(R.id.manfaat);
+        quiz=(ImageView)view.findViewById(R.id.quiz);
+        contact=(ImageView)view.findViewById(R.id.contact);
+        about=(ImageView)view.findViewById(R.id.about);
 
         //ON CLICK
-    asmaulhusna.setOnClickListener(new View.OnClickListener() {
+        asmaulhusna.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent= new Intent(getActivity(), AsmaulHusna.class);
                 startActivity(intent);
             }
         });
-    kaidah.setOnClickListener(new View.OnClickListener() {
+        kaidah.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onClick(View v) {
             Intent intent = new Intent(getActivity(), KaidahAsmaulHusna.class);
             startActivity(intent);
         }
-    });
+        });
         manfaat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -64,6 +72,35 @@ public class utama extends Fragment {
                 startActivity(intent);
             }
         });
-    //DONE
+        quiz.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), HighScoreActivity.class);
+                startActivity(intent);
+            }
+        });
+        contact.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), ContactActivity.class);
+                startActivity(intent);
+            }
+        });
+        about.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), ContactActivity.class);
+                startActivity(intent);
+            }
+        });
+        about.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getActivity(), TentangActivity.class);
+                startActivity(intent);
+            }
+        });
+        //DONE
     }
+
 }

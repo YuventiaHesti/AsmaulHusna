@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Fragment.utama"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@drawable/back3">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,18 +20,26 @@
             android:layout_weight="1"
             android:padding="16dp">
 
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/img_asmaulhusna"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@color/colorAccent"/>
-            <TextView
+                android:src="@drawable/sembilansembilan"/>
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="Asmaul Husna"
-                android:gravity="center"/>
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:text="Asmaul Husna"
+                    android:gravity="center"
+                    android:background="@color/colorTosca"
+                    android:textColor="@color/colorBlack"/>
+            </LinearLayout>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -38,18 +47,26 @@
             android:orientation="vertical"
             android:layout_weight="1"
             android:padding="16dp">
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/kaidah"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@color/colorAccent"/>
-            <TextView
+                android:src="@drawable/book"/>
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="Kaidah Asmaul Husna"
-                android:gravity="center"/>
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:background="@color/colorTosca"
+                    android:textColor="@color/colorBlack"
+                    android:text="Kaidah Asmaul Husna"
+                    android:gravity="center" />
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
@@ -63,18 +80,26 @@
             android:orientation="vertical"
             android:layout_weight="1"
             android:padding="16dp">
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/manfaat"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@color/colorAccent"/>
-            <TextView
+                android:src="@drawable/manfaat"/>
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="Manfaat Asmaul Husna"
-                android:gravity="center"/>
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:background="@color/colorTosca"
+                    android:textColor="@color/colorBlack"
+                    android:text="Manfaat Asmaul Husna"
+                    android:gravity="center"/>
+            </LinearLayout>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -82,17 +107,26 @@
             android:orientation="vertical"
             android:layout_weight="1"
             android:padding="16dp">
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@color/colorAccent"/>
-            <TextView
+                android:src="@drawable/notebook"
+                android:id="@+id/quiz"/>
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="Quiz"
-                android:gravity="center"/>
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:background="@color/colorTosca"
+                    android:textColor="@color/colorBlack"
+                    android:text="Quiz"
+                    android:gravity="center"/>
+            </LinearLayout>
         </LinearLayout>
     </LinearLayout>
     <LinearLayout
@@ -107,17 +141,27 @@
             android:orientation="vertical"
             android:layout_weight="1"
             android:padding="16dp">
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@color/colorAccent"/>
-            <TextView
+                android:src="@drawable/exclamation"
+                android:id="@+id/about"/>
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="About"
-                android:gravity="center"/>
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:background="@color/colorTosca"
+                    android:textColor="@color/colorBlack"
+                    android:text="About"
+                    android:gravity="center"/>
+            </LinearLayout>
+
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -125,17 +169,27 @@
             android:orientation="vertical"
             android:layout_weight="1"
             android:padding="16dp">
-            <ImageView
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@color/colorAccent"/>
-            <TextView
+                android:src="@drawable/iconcontact"
+                android:id="@+id/contact"/>
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="4"
-                android:text="Contact Information"
-                android:gravity="center"/>
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:background="@color/colorTosca"
+                    android:textColor="@color/colorBlack"
+                    android:text="Contact Information"
+                    android:gravity="center"/>
+            </LinearLayout>
+
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
