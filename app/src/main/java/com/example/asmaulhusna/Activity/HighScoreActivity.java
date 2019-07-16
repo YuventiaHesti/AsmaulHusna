@@ -67,14 +67,6 @@ public class HighScoreActivity extends AppCompatActivity {
     @Override
     public void onBackPressed()
     {
-        if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis())
-        {
-            Intent intent = new Intent(HighScoreActivity.this,MenuUtama.class);
-            startActivity(intent);
-            return;
-        }
-        else { Toast.makeText(getBaseContext(), "ketuk 2 kali bila ingin kembali ke Home", Toast.LENGTH_SHORT).show(); }
 
-        mBackPressed = System.currentTimeMillis();
     }
 }
