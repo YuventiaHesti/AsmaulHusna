@@ -66,7 +66,7 @@ public class DetailAsmaulhusna extends AppCompatActivity {
                 suara.start();
             }
         });
-        Cursor cursor = dbHelper.getBestScore();
+        Cursor cursor = dbHelper.checkAsmaulHusna(Nama);
         String nomor = null;
         if (cursor.getCount()>0){
             while (cursor.moveToNext()){

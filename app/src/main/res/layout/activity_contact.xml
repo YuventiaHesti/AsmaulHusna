@@ -11,7 +11,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@color/colorBlack"
+        android:src="@color/colorWhite"
         android:alpha="0.5"/>
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,7 +26,8 @@
             android:textSize="25dp"
             android:text="Contact Information"
             android:fontFamily="sans-serif-smallcaps"
-            android:layout_marginBottom="10dp"/>
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/colorBlack"/>
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="match_parent"
             android:layout_height="200dp"
@@ -45,18 +46,21 @@
                     android:orientation="horizontal"
                     android:gravity="left">
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="Nama"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Yuventia Hesti Ningrum"/>
@@ -67,18 +71,21 @@
                     android:orientation="horizontal"
                     android:gravity="left">
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="NPM"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="201543502005"/>
@@ -89,18 +96,21 @@
                     android:orientation="horizontal"
                     android:gravity="left">
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="Email"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="yuventiahesti@gmail.com"/>
@@ -111,22 +121,43 @@
                     android:orientation="horizontal"
                     android:gravity="left">
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="Instagram"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
-                        android:textSize="17sp"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="16sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="yuventiahesti"/>
                 </LinearLayout>
+                <ScrollView
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:textSize="20sp"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/deskripsi"
+                            android:textColor="@color/colorBlack"
+                            android:gravity="center"
+                            android:layout_weight="1"/>
+                    </LinearLayout>
+                </ScrollView>
             </LinearLayout>
 
 

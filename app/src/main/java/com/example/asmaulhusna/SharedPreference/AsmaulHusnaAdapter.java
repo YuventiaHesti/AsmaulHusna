@@ -11,6 +11,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -31,7 +32,7 @@ public class AsmaulHusnaAdapter extends RecyclerView.Adapter<AsmaulHusnaAdapter.
 
         TextView Nomor, Nama, Arti;
         ImageView Gambar;
-        LinearLayout list;
+        RelativeLayout list;
 
         public View layout;
 
@@ -42,7 +43,7 @@ public class AsmaulHusnaAdapter extends RecyclerView.Adapter<AsmaulHusnaAdapter.
             Nama=(TextView)itemView.findViewById(R.id.textnama);
             Arti=(TextView)itemView.findViewById(R.id.textarti);
             Gambar=(ImageView)itemView.findViewById(R.id.ImgAsmaulHusna);
-            list=(LinearLayout)itemView.findViewById(R.id.listAsmaulHusna);
+            list=(RelativeLayout)itemView.findViewById(R.id.listAsmaulHusna);
 
         }
     }

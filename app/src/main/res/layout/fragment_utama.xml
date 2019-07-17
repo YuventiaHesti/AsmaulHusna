@@ -25,7 +25,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/sembilansembilan"/>
+                android:src="@drawable/iconah"/>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -52,7 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/book"/>
+                android:src="@drawable/iconkaidah"/>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -85,7 +85,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/manfaat"/>
+                android:src="@drawable/iconmanfaat"/>
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -111,7 +111,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/notebook"
+                android:src="@drawable/iconquiz"
                 android:id="@+id/quiz"/>
             <LinearLayout
                 android:layout_width="match_parent"
@@ -145,7 +145,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/exclamation"
+                android:src="@drawable/iconabout"
                 android:id="@+id/about"/>
             <LinearLayout
                 android:layout_width="match_parent"
@@ -173,7 +173,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:src="@drawable/iconcontact"
+                android:src="@drawable/iconci"
                 android:id="@+id/contact"/>
             <LinearLayout
                 android:layout_width="match_parent"

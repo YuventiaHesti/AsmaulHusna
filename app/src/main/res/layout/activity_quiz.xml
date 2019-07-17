@@ -14,7 +14,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@color/colorBlack"
+            android:src="@color/colorWhite"
             android:alpha="0.5">
 
         </ImageView>
@@ -31,7 +31,8 @@
                 android:textSize="30sp"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:id="@+id/tvScore"/>
+                android:id="@+id/tvScore"
+                android:textColor="@color/colorBlack"/>
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -44,7 +45,8 @@
                     android:text="Quiz"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_centerInParent="true" />
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/colorBlack"/>
             </RelativeLayout>
             <LinearLayout
                 android:layout_width="match_parent"
@@ -60,7 +62,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:text="SOAL"
-                        android:gravity="center|top" />
+                        android:gravity="center|top"
+                        android:textColor="@color/colorBlack"/>
                 </LinearLayout>
             </LinearLayout>
             <LinearLayout
@@ -76,7 +79,6 @@
                     android:layout_weight="1">
 
                     <Button
-
                         android:id="@+id/btnA"
                         android:textSize="13sp"
                         android:layout_width="match_parent"

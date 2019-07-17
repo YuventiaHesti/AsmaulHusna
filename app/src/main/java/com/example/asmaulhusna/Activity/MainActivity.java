@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
 
-        tvSplash = (TextView) findViewById(R.id.tvSplash);
 
 
         final Handler handler = new Handler();
