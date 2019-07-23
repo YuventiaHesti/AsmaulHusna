@@ -216,7 +216,7 @@ public class DataModelAsmaulHusna {
             {"16",
                     "Al-Wahhaab",
                     "Yang Maha Pemberi",
-                    "kosong",
+                    String.valueOf(R.drawable.alwahab),
                     "suara",
                     "Allah Subhanallahu wa Ta'ala Maha pemberi. Taka da satupun makhluk ciptaan-Nya yang tak pernah merasakan nikmat pemberian-Nya. \n" +
                             "Begitu pula yang terjadi pada diri Abu hanifah an-Nu’man. Ia seseorang pedagang yang berbudi luhur, penyantun, dan terkenal suka bersedekah pada fakir miskin, ia lebih suka memberi daripada menerima. Sehingga setiap akhir tahun ia akan memberikan sebagian keuntungan dagangnya untuk fakir miskin.\n" +
@@ -228,7 +228,7 @@ public class DataModelAsmaulHusna {
             {"17",
                     "Ar-Razzaaq",
                     "Yang Maha Pemberi Rezeki",
-                    "kosong",
+                    String.valueOf(R.drawable.arrazzaaq),
                     "suara",
                     "Jangan pernah takut kehilangan rezeki, jika kita telah berbuat jujur. Bukankah, semua rezeki itu berasal dari Allah Subhanallahu wa Ta'ala Ada seseorang wanita shalihah yang hidup kekurangan. Suatu hari, suami wanita itu menemukan sekantung dinar. Tapi, istrinya menolak saat kantung uang itu diberikan kepadanya. “Aku tidak akan menerima uang ini karena itu bukan milik kita. Cepat engkau kembalikan uang itu.” Suruh istrinya.\n" +
                             "Suami wanita itu salihah itu pun segera kembali ke tempat tadi ia menemukan sekantung uang dinar. Secara kebetulan ia bertemu dengan pemiliknya. Ternyata, si pemilik uang dinar itu memberikan semua uang itu pada suami shalihah. Bahkan, ia menambahkan 900 dinar lagi. “karena engkau dan istrimu telah bersikap jujur mau mengembalkan sekantung uang ini…” kata si pemilik uang itu takjub.\n",
@@ -239,9 +239,11 @@ public class DataModelAsmaulHusna {
             {"18",
                     "Al-Fattaah",
                     "Yang Maha Membuka",
-                    "kosong",
+                    String.valueOf(R.drawable.alfattaah),
                     "suara",
-                    "kisah",
+                    "Allah Subhanahu wa Ta’ala berkehendak untuk membuka atau menutup hati seseorang. Begitu pula yang terjadi pada seorang rahib yang bertemu dengan Ibrahim al-Khawas. Seorang wali allah yang terkenal ke salehannya. Doa-doanya mudah di kabulkan Allah Subhanahu wa Ta’ala.\n" +
+                            "Suatu hari, Ibrahim melakukan perjalanan ke Kota Mekkah untuk melaksanakan ibadah haji.Di tengah jalan, ia bertemu dengan seorang rahib atau pendeta agama Yahudi. Ia ingin bersahabat dan ikut dalam perjalanan itu. Dengan senang hati Ibrahim menerima permintaan rahib.\n" +
+                            "Karena kekurangan bekal, dalam perjalanan itu, mereka tak makan dan tak minum selama beberapa hari. Dengan sungkan rahib meminta makanan pada Ibrahim. Maka Ibrahim pun berdoa kepada Allah. Tiba-tiba dari langit turun sebaki hidangan berisi dua potong roti, daging, dan minuman.Rahib pun takjub melihat hal itu. Maka sejak itu, ia pun memeluk agama Islam dan menjadi orang yang saleh.\n",
                     "kisahGambar",
                     "Allah pembuka pintu yang tertutup. Allah membuka pintu-pintu rahmat dan rezeki, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Fattaah.",
                     "Masuk Islam Karena Dikirim Makanan dari Langit"
@@ -249,9 +251,11 @@ public class DataModelAsmaulHusna {
             {"19",
                     "Al-'Aliim",
                     "Yang Maha Mengetahui",
-                    "kosong",
+                    String.valueOf(R.drawable.alaliim),
                     "suara",
-                    "kisah",
+                    "Allah Subhanahu wa Ta’ala Maha Mengetahui. Karena itu, Allah juga sangat menyayangi hambanya yang berilmu. Dengan banyak memiliki ilmu kita akan banyak tahu. Pada zaman dulu, ada seorang kaya raya yang memiliki banyak ilmu. Ia memiliki seorang putri yang terkenal dengan kecantikannya. Banyak pemuda yang ingin melamar dan menikahi putri Sufyan bin Uyainah itu.\n" +
+                            "Suatu hari, datang seorang pemuda yang bermaksud melamar putrinya. Pemuda itu masih keponakannya. Namun sayang saat sufyan menyuruh pemuda itu untuk membacakan 10 hadits dan 10 ayat Al-Qur’an. Ternyata sih pemuda itu tak satupun yang hapal.\n" +
+                            "Karena tak berilmu. Maka lamaran pemuda itupun di tolak.Namun, sebagai orang yang baik hati, Sofyan masih memberinya hadiah sekantung uang senile 10 ribu dirham.\n",
                     "kisahGambar",
                     "Bagi Allah sesuatu yang nampak dan yang tersembunyi adalah sama. Tak ada satupun yang luput dari pengetahuan Allah, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-'Aliim.",
                     "Lamaran Orang tak Berilmu"
@@ -259,9 +263,10 @@ public class DataModelAsmaulHusna {
             {"20",
                     "Al-Qaabidh",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alqaabidh),
                     "suara",
-                    "kisah",
+                    "Awalnya, ia salah seorang sahabat Rasul Shallallahu`alaihi Wa Sallam yang taat beribadah. Ia selalu salat berjamaah bersama Rasul Shallallahu’alaihi Wa Sallam di masjid. Namun setelah ia berubah menjadi kaya raya karena didoakan Rasul dan diberi seekor kambing yang sedang bunting. Tiba-tiba Tsa’labah lupa diri dan banyak melalaikan ibadahnya. Ia enggan berzakat, meskipun Rasul Shallallahu’alaihi wa sallam sendiri yang menyuruhnya.\n" +
+                            "Allah Subhanahu wa Ta’ala telah menyempitkan hati Tsa’labah. Meskipun akhirnya ia sadar dengan kesalahannya. Ia pun segera datang menemui Rasul.Namun sayang Rasul sudah tidak bersedia lagi menerima zakatnya. “celakalah, engkau Tsa’labah! Karena kedurhakaanmu, Allah telah melarangku untuk menerima zakatmu!” Dengan penuh penyesalan Tsa’labah benar-benar menyesali kesalahannya. Namun semuanya sudah terlambat. Zakat Tsa’labah tetap ditolak sampai dirinya meninggal dunia.\n",
                     "kisahGambar",
                     "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
                     "Zakat Tsa'labah yang Ditolak Rasulullah"
@@ -269,9 +274,11 @@ public class DataModelAsmaulHusna {
             {"21",
                     "Al-Baasith",
                     "Yang Maha Melapangkan",
-                    "kosong",
+                    String.valueOf(R.drawable.albaasith),
                     "suara",
-                    "kisah",
+                    "Imam Syafi’i dan sahabatnya sedang dalam perjalanan menuju Mekah. Saat itu Imam Syafi’i membawa 10 dinar di sakunya. “Jika engkau sampai di Mekah, engkau bisa membelanjakan uang 10 dinar itu untuk membeli sebidang tanah…” kata sahabatnya menyarankan.\n" +
+                            "Namun di tengah jalan. Imam Syafii mendirikan tenda. Ia kemudian mengambil uang 10 dinar itu lalu membagi-bagikan pada setiap orang yang lewat di depan tendanya. Uangnya pun habis dibagi-bagikan, sampai tak tersisa. Sahabatnya itu keheranan, “Tanpa uang sedikit pun apa engkau bisa hidup di Mekah nanti?”\n" +
+                            "“Wahai, sahabatku. Jika engaku bersikap dan berbuat lapang. Maka Allah pun akan melapangkanmu dalam setiap persoalan…. Janganlah engkau terlalu berhemat untuk berbuat kebaikan”\n",
                     "kisahGambar",
                     "Pemberian nikmat Allah pada hamba-Nya tak terhitung. Allah pun senantiasa melapangkan rezeki hamba-Nya, sehingga memiliki nama Al-Baasith.",
                     "Bekal Imam Syafi'i Habis untuk Sedekah"
@@ -279,9 +286,12 @@ public class DataModelAsmaulHusna {
             {"22",
                     "Al-Khaafidh",
                     "Yang Maha Merendahkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alkhaafidh),
                     "suara",
-                    "kisah",
+                    "Ada tiga pasukan muslim yang ditawan pasukan kafir. Raja kafir kemudian menawarkan kepada mereka, “Kalau kalian masuk agama kami. Kalian akan kami beri harta yang banyak. Tapi jika tidak, kalian akan kami hukum mati!”\n" +
+                            "Ternyata dari ketiga pasukan muslim itu ada dua orang yang tetap teguh dengan keimanannya dan ada satu orang yang tergoda bujukan raja kafir. Maka dua orang tentara muslim itu pun langsung dihukum mati.\n" +
+                            "Namun, tiba-tiba raja kafir berubah pikiran, “Kedua temanmu itu mati lebih mulia demi mempertahankan imannya. Namun engkau malah mengkhianati agamamu.”\n" +
+                            "Maka orang itu pun tetap dihukum. Malah lebih berat. Ia dimasukkan ke dalam kandang singa. Ia pun akhirnya mati diterkam singa dalam keadaan kafir.\n",
                     "kisahGambar",
                     "Allah berkuasa mengurangi sesuatu dan Allah Maha Merendahkan derajat makhluk-Nya, sehingga Allah memiliki nama Al-Khaafidh.",
                     "Keteguhan Iman Dua Tawanan Muslim"
@@ -289,9 +299,13 @@ public class DataModelAsmaulHusna {
             {"23",
                     "Ar-Raafi'",
                     "Yang Maha Meninggikan",
-                    "kosong",
+                    String.valueOf(R.drawable.arraafiq),
                     "suara",
-                    "kisah",
+                    "Malik bin Dinar adalah seorang  tabiin dan ulama besar Bashrah. Namun sebelumnya, ia dikenal sebagai orang yang suka berbuat maksiat.\n" +
+                            "Suatu malam, Malik bin Dinar bermimpi  tentang peristiwa hari kiamat. Saat itu  tiba-tiba ia dikejar-kejar seekor ular besar. Dengan penuh ketakutan, ia berlari menyelamatkan diri.\n" +
+                            "Untungnya di saat ketakutan tersebut, datang putrinya bernama Fatimah. Ia langsung menolong Malik bin Dinar dari kejaran si ular.\n" +
+                            "“Ketahuilah, Ayah. Ular itu adalah bentuk dari kesalahan atau dosa yang telah Ayah perbuat selama hidup di dunia.”\n" +
+                            "Sejak peristiwa mimpi itu maka, Malik bin Dinar pun bertobat.\n",
                     "kisahGambar",
                     "Allah yang mengangkat derajat hamba-hamba-Nya untuk mengujimu tentang apa yang diberikan-Nya kepadamu, sehingga Allah memiliki nama Ar-Raafi'.",
                     "Ular Raksasa yang Mengejar Malik bin Dinar"
@@ -299,9 +313,12 @@ public class DataModelAsmaulHusna {
             {"24",
                     "Al-Mu'izz",
                     "Yang Maha Memuliakan",
-                    "kosong",
+                    String.valueOf(R.drawable.almuiz),
                     "suara",
-                    "kisah",
+                    "Allah Subhanahu wa Ta’ala akan memuliakan orang yang bertakwa. Hal itu seperti yang dialami seorang gadis yang berparas buruk.Suatu ketika ada seorang gubernur pada masa zaman Khalifah al-Mahdi. Gubernur itu biasa bersedekah dengan membagi-bagikan uang pada rakyatnya.Tapi, hanya gadis itu yang menolak pemberiannya, “Maaf, bekal duniaku sudah cukup.\n" +
+                            " Tapi, bekal akhiratku masih kurang. Yaitu salat, puasa, dan zikir. ”Suatu hari, gubernur itu mengundang rakyatnya ke istana. Mereka semua diberi sebuah gelas kristal yang sangat mahal. Gubernur kemudian menyuruh semuanya untuk memecahkan gelas kristal itu. Ternyata, hanya gadis itu satu-satunya yang memecahkan gelas kristal.\n" +
+                            "“Aku memecahkan gelas kristal ini karena aku patuh pada perintah gubernur, sebagai pemimpin kita. Kita harus patuh pada pemerintah, setelah patuh pada Allah Subhanahu wa Ta’ala dan Rasulnya.”\n" +
+                            "Karena kagum dengan keimanan gadis itu, maka tak lama kemudian gubernur itu pun menikahinya.\n",
                     "kisahGambar",
                     "Allah Maha Berkuasa untuk memuliakan setiap makhluk-makhluk-Nya, sehingga Allah memiliki nama Al-Mu'izz.",
                     "Keteguhan Iman Gadis Berparas Jelek"
@@ -309,69 +326,105 @@ public class DataModelAsmaulHusna {
             {"25",
                     "Al-Mudzill",
                     "Yang Maha Menghinakan",
-                    "kosong",
+                    String.valueOf(R.drawable.almuzzil),
                     "suara",
-                    "kisah",
+                    "Allah Subhanahu wa Ta’ala akan menghinakan orang yang tidak mematuhi perintah-Nya.\n" +
+                            "Pada suatu ketika ada seorang petani yang rajin bersedekah. Setiap panen, ia selalu berzakat dan bersedekah pada fakir miskin.\n" +
+                            "Setelah meninggal, petani itu mewariskan tanah pertaniannya pada ketiga putranya. Namun dari ketiga putranya, hanya putra kedua yang rajin berzakat dan bersedekah.\n" +
+                            "Menjelang panen, putra kedua sudah mengingatkan kedua saudaranya untuk tak melupakan sedekah dan berzakat. Tapi, mereka tak mendengarnya.\n" +
+                            "Saat mereka pergi ke kebun. Mereka terkejut melihat kebunnya sudah rusak parah. Tanamannya tampak seperti habis terbakar. Tak ada sedikit pun hasil kebun yang bisa mereka ambil dari kebunnya itu.\n" +
+                            "“Nah, itulah akibatnya jika kalian melalaikan perintah Allah,” tegur putra kedua.\n",
                     "kisahGambar",
                     "Allah berkuasa merendahkan makhluk-Nya yang suka berbuat maksiat dan tidak beriman kepada-Nya ke dalam kehinaan, sehingga Allah memiliki nama Al-Mudzill.",
                     "Akibat Lalai Zakat dan Sedekah"
             },
             {"26",
-                    "As-Samii",
+                    "As-Samii'",
                     "Yang Maha Mendengar",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Allah Maha Mendengar sehingga tak ada sesuatupun yang bisa kita sembunyikan dari pendengaran Allah Subhanahu wa Ta’ala. Begitu pula Allah menciptakan makhluk-Nya dengan pendengaran yang luar biasa hebatnya.\n" +
+                            "Saat Usaid bin Hudhair membaca Al-Qur’an. Tiba-tiba kuda miliknya meronta-ronta dan sangat beringas. Sampai tali tambatannya terputus. Usaid heran dan langsung menghentikan bacaannya. Kuda itupun tampak diam. Kemudian Usaid pun melanjutkan kembali bacaannya.\n" +
+                            "Anehnya, lagi-lagi si kuda kembali beringas dan meronta-ronta lagi. Usaid pun kembali menghentikan bacaannya dan si kuda pun mendadak ikut diam. Ternyata menurut Rasul Shallallahu`alaihi Wa Sallam, kenapa kuda itu bertingkah seperti itu. Karena pada saat itu datang para malaikat ke tempat itu. Mereka ingin ikut mendengar Usaid yang sedang membaca Al-Qur’an.\n",
                     "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Allah Maha Mendengar segala sesuatu yang terbesit dalam benak setiap makhluk-Nya, sehingga Allah memiliki nama As-Samii'",
+                    "Malaikat Mendengarkan Bacaan Al-Qur'an"
             },
             {"27",
                     "Al-Basiir",
                     "Yang Maha Melihat",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Allah Maha Melihat. Sehingga apapun yang kalian lakukan tentu akan diketahui oleh Allah Subhanahu wa Ta’ala.\n" +
+                            "Suatu hari Ibrahim bin Adham dikunjungi seorang lelaki yang minta nasihat. Ia suka lupa diri sehingga sering  berbuat maksiat dan melalaikan perintah Allah Subhanahu wa Ta’ala.\n" +
+                            "Ibrahim bin Adham adalah salah seorang ulama besar pada masanya.\n" +
+                            "Ia lalu berkata, “Jika engkau ingin melakukan maksiat kepada Allah, carilah tempat di bumi ini yang tidak bisa Allah lihat.”\n" +
+                            "Lelaki itu menjawab dengan bingung, “Wah, tak mungkin ada tempat di dunia ini yang luput dari penglihatan Allah….”\n" +
+                            "“Nah, jika engkau sudah memiliki pendirian seperti itu. Insya Allah, di mana dan kapanpun engkau berada. Engkau akan senantiasa berpikir ulang untuk melakukan kemaksiatan pada Allah,” tambah Ibrahim bin Adham menyudahi pembicaraan pada saat itu.\n",
                     "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Allah Maha Melihat segala sesuatu. Baik yang tampak maupun tidak tampak dengan penglihatan-Nya, sehingga Allah memiliki nama Al-Bashiir.",
+                    "Tempat yang Tidak Bisa Dilihat Allah"
             },
             {"28",
                     "Al-Hakam",
                     "Yang Maha Menetapkan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Allah Maha Menetapkan Hukum. Allah Subhanahu wa Ta’ala akan memberikan hukuman kepada setiap makhluk-Nya dengan seadil-adilnya sesuai dengan amal dan perbuatannya.\n" +
+                            "Begitu pula saat ada seorang lelaki meninggal dunia. Rasulullah dan para sahabatnya kaget  melihat jasad mayat lelaki itu.\n" +
+                            "Dia tiba-tiba berubah menjadi seekor babi hutan.\n" +
+                            "Rasul pun segera mendoakannya sehingga akhirnya wujud mayat itu berubah kembali menjadi manusia.\n" +
+                            "Setelah dimakamkan, kemudian Rasul menemui keluarga si lelaki itu dan bertanya. “Kenapa dia bisa seperti itu? Apa yang dia lakukan selama hidupnya?”\n" +
+                            "“Maafkan kami wahai Rasulullah,” jawab putra si lelaki itu, “Setahu kami, selama hidupnya, ayahku sering meninggalkan salat. Mungkin itulah hukuman ayahku di dunia atas perbuatannya melalaikan salat.”\n",
                     "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Allah Maha Menetapkan hukum di dunia maupun di akhirat sesuai dengan hukum-Nya, sehingga Allah memiliki nama Al-Hakam.",
+                    "Akibat Meninggalkan Shalat"
             },
             {"29",
                     "Al-'Adl",
                     "Yang Maha Adil",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Suatu hari, datang seorang pengemis ke rumah Ja’far bin Khitab.\n" +
+                            "Namun ia tidak memiliki makanan atau uang untuk diberikan kepadanya. Untung, istrinya masih menyimpan 4 butir telur di dapur.\n" +
+                            "Maka istrinya pun lalu memberikan keempat butir telur itu kepada si pengemis.\n" +
+                            "Tak berselang lama, datanglah sahabat Jafar memberikan sekeranjang telur kepada Jafar.\n" +
+                            "Dengan penuh kegembiraan, istri Ja’far menerima telur itu.\n" +
+                            "Namun, saat diperiksa. Dari keempat puluh telur itu. Ternyata ada 10 butir telur yang sudah membusuk.\n" +
+                            "Allah Subhanahu wa Ta’ala memang Mahaadil. Ternyata sebelumnya juga, istrinya lupa kalau dari keempat telur tadi. Satu butir telur telah busuk.\n" +
+                            "Seandainya kalau keempat telur yang ia sedekahkan tadi tidak ada yang busuk, bisa jadi keempat puluh telur hadiah sahabat suaminya itu tidak ada yang busuk.\n",
                     "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Allah berlaku adil dalam menghakimi setiap masalah. Semua balasan pahala yang diberikan Allah, sesuai dengan apa yang telah diperbuat hamba-Nya di dunia. Dengan demikian, Allah memiliki nama Al-'Adl.",
+                    "Sedekah Telur Busuk"
             },
             {"30",
                     "Al-Lathiif",
                     "Yang Maha Lembut",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Banyak cara bagi Allah untuk memberikan bantuan pada umat-Nya yang bertakwa.\n" +
+                            "Seperti kisah Siti Maryam, di mana Allah Swt. memberikan pertolongan yang halus dan lembut. Sampai tak diketahui siapapun. Termasuk orang terdekat sekalipun.\n" +
+                            "Nabi Zakaria a.s. adalah paman Siti Maryam. Ia sengaja membuatkan sebuah ruang tertutup dan terkunci bagi Siti Maryam di Baitulmaqdis.\n" +
+                            "Sepanjang hari Siti Maryam disibukkan untuk beribadah kepada Allah Subhanahu wa Ta’ala. Tak pernah memikirkan hal lain.\n" +
+                            "Allah Subhanahu wa Ta’ala sangat menyayangi hamba-Nya yang bertakwa.\n" +
+                            "Begitu pula kepada Siti Maryam. Melalui Malaikat Jibril, Allah Subhanahu wa Ta’ala sering mengirimkan makanan kepada Siti Maryam. Sehingga tak heran kalau Siti Maryam tak pernah kekurangan makanan.\n" +
+                            "Nabi Zakaria pun sampai takjub dengan peristiwa itu.\n",
                     "kisahGambar",
-                    "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
-                    "Zakat Tsa'labah yang Ditolak Rasulullah"
+                    "Allah Maha Lembut kepada makhluk-Nya dengan memberikan karunia kepada hamba-Nya secara lembut. Dengan demikian, Allah memiliki nama Al-Lathiif.",
+                    "Makanan dari Allah untuk Siti Maryam"
             },
             {"31",
                     "Al-Khabiir",
                     "Yang Maha Menyempitkan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Suatu hari, Abdul Qodir muda dititipkan ibunya kepada rombongan pedagang yang akan pergi ke Baghdad.\n" +
+                            "Kebetulan Abdul Qodir juga akan menimba ilmu di sana. Ibunya  membekalinya 40 uang emas yang dijahitkan ke dalam baju Abdul Qodir.\n" +
+                            "Namun di tengah jalan, mereka dicegat perampok. Salah seorang perampok menghampiri Abdul Qodir dan bertanya. “Apa yang engkau miliki?” dengan jujur Abdul Qodir menjawab, “Aku memiliki 40 uang emas di dalam bajuku.”\n" +
+                            "Si perampok heran, “Kenapa engkau berkata jujur? Padahal kalau engkau bohong, tentu kami tidak akan tahu….”\n" +
+                            "Abdul Qodir lalu menjawab, “Ibuku berpesan. Allah Maha Tahu. Tak ada sesuatu yang bisa aku sembunyikan. Aku harus selalu jujur, meski pun hal itu bisa merugikan diriku….”\n" +
+                            "Mendengar hal itu, para perampok tertegun malu. Selama ini, mereka telah banyak merugikan orang lain.\n" +
+                            "Maka sejak itu para perampok itu pun bertobat dan tidak lagi merampok.\n",
                     "kisahGambar",
                     "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
                     "Zakat Tsa'labah yang Ditolak Rasulullah"
@@ -381,7 +434,12 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Menyempitkan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Suatu hari, ada seorang wanita ingkar membuat keributan di depan Salahuddin Al-Ayyubi, khalifah muslim yang terkenal  santun.\n" +
+                            "Saat prajurit akan menangkap wanita itu, Salahuddin langsung mencegahnya, “Biarkan saja dia menemuiku.”\n" +
+                            "Wanita itu lalu mengadu bahwa suaminya ditawan pasukan muslim dan anaknya ada yang menculik. Padahal suaminya adalah pencari nafkah keluarga mereka.\n" +
+                            "Ketika mendengar hal itu, kemudian Salahuddin melepaskan suami wanita itu dan menyuruh prajuritnya untuk menemukan kembali anaknya yang diculik.\n" +
+                            "Ternyata Islam itu agama yang tetap menyayangi dan membantu semua orang, meskipun pada musuhnya sekalipun, pikir wanita itu.\n" +
+                            "Karena terpesona dengan sikap Salahuddin yang penyantun dan ramah, maka suami istri itu pun masuk Islam.\n",
                     "kisahGambar",
                     "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
                     "Zakat Tsa'labah yang Ditolak Rasulullah"
@@ -391,7 +449,15 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Menyempitkan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Suatu hari, Nabi Khidir bertemu dengan seseorang yang ingin diberi sedekah.\n" +
+                            "Karena tak memiliki sesuatu untuk disedekahkan, maka Nabi Khidir menawarkan diri untuk dijual sebagai budak di rumah seorang yang kaya.\n" +
+                            "Maka Nabi Khidir pun laku seharga 400 dirham.\n" +
+                            "Selama menjadi budak, Nabi Khidir bekerja dengan menakjubkan.\n" +
+                            "Ia bisa memindahkan batu-batu besar hanya dalam  waktu sekejap. Padahal jika dilakukan oleh manusia biasa memerlukan waktu berminggu-minggu.\n" +
+                            "Nabi Khidir juga mampu membuat rumah besar hanya dalam beberapa hari.\n" +
+                            "Akhirnya si tuan kaya itu mengetahui kalau budaknya itu seorang nabi.\n" +
+                            "Maka dengan menyesal dan memohon maaf, ia lalu membebaskan Nabi Khidir tanpa tebusan.\n" +
+                            "Allah memiliki sifat Mahaagung. Allah juga berkuasa untuk memberikan keagungan kepada makhluk-Nya. Seperti pada Nabi Khidir.\n",
                     "kisahGambar",
                     "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
                     "Zakat Tsa'labah yang Ditolak Rasulullah"
@@ -401,7 +467,11 @@ public class DataModelAsmaulHusna {
                     "Yang Maha Menyempitkan",
                     "kosong",
                     "suara",
-                    "kisah",
+                    "Suatu hari, ada seorang wanita yang ingin bertobat. Ia lalu menemui Nabi Musa.\n" +
+                            "“Aku telah berulang kali berbuat dosa besar. Mulai hari ini aku tidak akan lagi mengulangi perbuatan dosa lagi…. Bisakah Allah Subhanahu wa Ta’ala menerima tobatku?”\n" +
+                            "“Dosamu sudah sangat besar. Allah tidak akan mengampunimu lagi,” tegas Nabi Musa. “Lebih baik sekarang engkau pergi dari sini!”\n" +
+                            "Karena sikap Nabi Musa seperti itu, kemudian datang Malaikat Jibril menegurnya, “Wahai, Musa. Janganlah engkau bersikap seperti itu. Bukankah wanita itu bersungguh-sungguh ingin bertobat. Tahukah engkau, dosa wanita itu masih lebih ringan jika dibanding dengan orang yang meninggalkan satu dosa.”\n" +
+                            "Akhirnya, Nabi Musa sadar. Allah Subhanahu wa Ta’ala itu Maha Penerima Tobat.\n",
                     "kisahGambar",
                     "Allah berkuasa dan berkehendak untuk menyempitkan siapa saja dan pintu-pintu rezeki para hamba-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Al-Qaabidh.",
                     "Zakat Tsa'labah yang Ditolak Rasulullah"
