@@ -46,5 +46,6 @@ public class MenuUtama extends AppCompatActivity {
         else { Toast.makeText(getBaseContext(), "ketuk 2 kali bila ingin keluar", Toast.LENGTH_SHORT).show(); }
 
         mBackPressed = System.currentTimeMillis();
+
     }
 }

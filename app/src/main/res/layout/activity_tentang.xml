@@ -25,21 +25,21 @@
             android:textStyle="bold"
             android:textSize="50dp"
             android:textColor="@color/colorBlack"
-            android:text="Mengenal Asmaul Husna"
+            android:text="Asmaul Husna"
             android:fontFamily="sans-serif-smallcaps"
             android:layout_marginBottom="10dp"/>
+
         <ScrollView
             android:layout_width="match_parent"
             android:layout_height="match_parent">
-
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:padding="30dp"
                 android:textColor="@color/colorBlack"
-                android:gravity="center|top"
-                android:textSize="30dp"
-                android:text="Aplikasi ini dimaksudkan sebagai media pembelajaran untuk anak-anak agar lebih mudah mengenal Asmaul Husna dengan baik."/>
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="@string/about"/>
         </ScrollView>
     </LinearLayout>
 

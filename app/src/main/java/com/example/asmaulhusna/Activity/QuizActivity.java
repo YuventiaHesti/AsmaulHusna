@@ -53,7 +53,7 @@ public class QuizActivity extends AppCompatActivity {
             public void onClick(View v) {
                 if (pList.get(no).getJawaban().equals("A")){
                     if (no >= pList.size()-1){
-                        Intent goInput = new Intent(QuizActivity.this, HighScoreActivity.class);
+                        Intent goInput = new Intent(QuizActivity.this,HighScoreActivity.class);
                         goInput.putExtra("SCORE",String.valueOf(Integer.parseInt(Score)+10));
                         dbHelper.highScore(String.valueOf(Integer.parseInt(Score)+10));
                         QuizActivity.this.startActivities(new Intent[]{goInput});
@@ -62,6 +62,7 @@ public class QuizActivity extends AppCompatActivity {
                         Intent goInput = new Intent(QuizActivity.this, QuizActivity.class);
                         goInput.putExtra("NO",String.valueOf(no+1));
                         goInput.putExtra("SCORE",String.valueOf(Integer.parseInt(Score)+10));
+                        QuizActivity.this.startActivities(new Intent[]{goInput});
                     }
                 }else{
                     if (no >= pList.size()-1){

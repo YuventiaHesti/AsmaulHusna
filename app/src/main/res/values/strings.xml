@@ -3,7 +3,12 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="deskripsi">"Sebaik-baiknya manusia adalah yang bermanfaat untuk orang lain"</string>
+    <string name="deskripsi">"Sebaik-baiknya manusia adalah yang bermanfaat untuk orang lain."</string>
+    <string name="about">Menu Asmaul Husna berisikan daftar Asmaul Husna, jika di klik salah satu Asmaul Husna maka akan muncul detail dari Asmaul Husna tersebut.\n \n
+Terdapat Quiz yang bisa digunakan untuk melatih pengetahuan Asmaul Husna.\n \n
+Aplikasi ini dimaksudkan sebagai media pembelajaran untuk anak-anak agar lebih mudah mengenal Asmaul Husna dengan baik
+
+</string>
     <string name="kaidah">"Pertama: Nama Allah itu tauqifiyah (mesti dengan dalil)
 
 

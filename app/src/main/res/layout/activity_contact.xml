@@ -47,20 +47,20 @@
                     android:gravity="left">
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="Nama"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Yuventia Hesti Ningrum"/>
@@ -72,20 +72,20 @@
                     android:gravity="left">
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="NPM"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="201543502005"/>
@@ -97,20 +97,20 @@
                     android:gravity="left">
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="Email"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="yuventiahesti@gmail.com"/>
@@ -122,20 +122,20 @@
                     android:gravity="left">
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="100sp"
                         android:layout_height="wrap_content"
                         android:text="Instagram"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="20dp"
                         android:layout_height="wrap_content"
                         android:text=":"
                         android:gravity="center"/>
                     <TextView
                         android:textColor="@color/colorBlack"
-                        android:textSize="16sp"
+                        android:textSize="15sp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="yuventiahesti"/>
@@ -152,6 +152,7 @@
                             android:textSize="20sp"
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
+                            android:fontFamily="sans-serif-smallcaps"
                             android:text="@string/deskripsi"
                             android:textColor="@color/colorBlack"
                             android:gravity="center"

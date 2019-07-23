@@ -39,7 +39,7 @@ public class HighScoreActivity extends AppCompatActivity {
         if (score != null){
             highScore.setText(score);
         }else if(score == null){
-            highScore.setText("Belum Ada Best Score");
+            highScore.setText("-");
         }
         Home.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -67,6 +67,7 @@ public class HighScoreActivity extends AppCompatActivity {
     @Override
     public void onBackPressed()
     {
-
+    finish();
+    System.exit(0);
     }
 }
