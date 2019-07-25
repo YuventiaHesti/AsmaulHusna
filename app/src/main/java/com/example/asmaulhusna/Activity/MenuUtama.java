@@ -14,9 +14,7 @@ import com.example.asmaulhusna.R;
 import java.util.ArrayList;
 
 public class MenuUtama extends AppCompatActivity {
-    private long mBackPressed;
-    private static final int TIME_INTERVAL = 2000;
-    private static ArrayList<Activity> activities=new ArrayList<Activity>();
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,19 +31,9 @@ public class MenuUtama extends AppCompatActivity {
             ft.commit();
         }
     }
-
-    @Override
     public void onBackPressed()
     {
-        if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis())
-        {
-            finish();
-            System.exit(0);
-            return;
-        }
-        else { Toast.makeText(getBaseContext(), "ketuk 2 kali bila ingin keluar", Toast.LENGTH_SHORT).show(); }
-
-        mBackPressed = System.currentTimeMillis();
-
+        finishAffinity();
+        finish();
     }
 }

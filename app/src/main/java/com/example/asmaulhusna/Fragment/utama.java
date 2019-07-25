@@ -1,11 +1,14 @@
 package com.example.asmaulhusna.Fragment;
 
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -30,6 +33,7 @@ public class utama extends Fragment {
 
     public utama() {
         // Required empty public constructor
+
     }
 
 
@@ -56,6 +60,7 @@ public class utama extends Fragment {
             public void onClick(View v) {
                 Intent intent= new Intent(getActivity(), AsmaulHusna.class);
                 startActivity(intent);
+
             }
         });
         kaidah.setOnClickListener(new View.OnClickListener() {
@@ -77,16 +82,10 @@ public class utama extends Fragment {
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), HighScoreActivity.class);
                 startActivity(intent);
+                getActivity().finish();
             }
         });
         contact.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getActivity(), ContactActivity.class);
-                startActivity(intent);
-            }
-        });
-        about.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(getActivity(), ContactActivity.class);
@@ -103,4 +102,9 @@ public class utama extends Fragment {
         //DONE
     }
 
-}
+    public void onBackPressed()
+    {
+        getActivity().finish();
+    }
+
+    }

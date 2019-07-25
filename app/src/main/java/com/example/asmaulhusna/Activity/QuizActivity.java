@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -18,6 +19,7 @@ import java.util.ArrayList;
 public class QuizActivity extends AppCompatActivity {
     Button A,B,C,D;
     TextView Soal,Tittle,SCORE;
+    ImageView back;
     private long mBackPressed;
     private static final int TIME_INTERVAL = 2000;
 
@@ -27,6 +29,17 @@ public class QuizActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
+
+        back=(ImageView)findViewById(R.id.ivBack);
+
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(QuizActivity.this,MenuUtama.class);
+                startActivity(intent);
+                finish();
+            }
+        });
 
         Intent data = getIntent();
         String No = data.getStringExtra("NO");
@@ -180,14 +193,6 @@ public class QuizActivity extends AppCompatActivity {
     @Override
     public void onBackPressed()
     {
-        if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis())
-        {
-            Intent intent = new Intent(QuizActivity.this,MenuUtama.class);
-            startActivity(intent);
-            return;
-        }
-        else { Toast.makeText(getBaseContext(), "ketuk 2 kali bila ingin kembali ke Home", Toast.LENGTH_SHORT).show(); }
 
-        mBackPressed = System.currentTimeMillis();
     }
 }

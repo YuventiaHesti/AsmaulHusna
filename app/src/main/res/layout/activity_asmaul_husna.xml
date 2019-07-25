@@ -12,6 +12,12 @@
         android:layout_height="50dp"
         android:orientation="horizontal"
         android:background="@color/colorPrimary">
+        <ImageView
+            android:id="@+id/ivback"
+            android:src="@drawable/btn_back"
+            android:layout_weight="3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"

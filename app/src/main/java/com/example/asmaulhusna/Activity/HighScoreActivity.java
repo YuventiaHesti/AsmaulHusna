@@ -46,6 +46,7 @@ public class HighScoreActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(HighScoreActivity.this,MenuUtama.class);
                 startActivity(intent);
+                finish();
             }
         });
         Quiz.setOnClickListener(new View.OnClickListener() {
@@ -55,6 +56,7 @@ public class HighScoreActivity extends AppCompatActivity {
                 goInput.putExtra("NO",String.valueOf(0));
                 goInput.putExtra("SCORE",String.valueOf(Integer.parseInt("0")));
                 HighScoreActivity.this.startActivities(new Intent[]{goInput});
+                finish();
             }
         });
         if (Score == null){
@@ -67,7 +69,5 @@ public class HighScoreActivity extends AppCompatActivity {
     @Override
     public void onBackPressed()
     {
-    finish();
-    System.exit(0);
     }
 }

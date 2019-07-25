@@ -18,14 +18,24 @@ import com.example.asmaulhusna.SharedPreference.DB_Helper;
 
 public class DetailAsmaulhusna extends AppCompatActivity {
     TextView nomor,nama,arti,penjelasan,kisah,judulkisah;
-    ImageView gambar,kisahgambar,play,stop;
-    Button favorite,share;
+    ImageView gambar,kisahgambar,play,stop, back;
+    Button favorite;
     DB_Helper dbHelper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail_asmaulhusna);
+        back=(ImageView)findViewById(R.id.ivBack);
+
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(DetailAsmaulhusna.this,AsmaulHusna.class);
+                startActivity(intent);
+                finish();
+            }
+        });
         dbHelper = new DB_Helper(DetailAsmaulhusna.this);
         //Deklarasi Variable
         nomor=(TextView)findViewById(R.id.textnomor);
@@ -88,6 +98,8 @@ public class DetailAsmaulhusna extends AppCompatActivity {
                     dbHelper.FavoriteAsmaulHusna(asmaulHusna);
                     Intent intent = new Intent(DetailAsmaulhusna.this,FavoriteActivity.class);
                     startActivity(intent);
+
+                    finish();
                 }
             });
         }else{
@@ -99,16 +111,17 @@ public class DetailAsmaulhusna extends AppCompatActivity {
                     dbHelper.deleteAsmaulHusnaRecord(Nomor,DetailAsmaulhusna.this);
                     Intent intent= new Intent(DetailAsmaulhusna.this, AsmaulHusna.class);
                     startActivity(intent);
+
+                    finish();
                 }
             });
         }
-
-
-
     }
     private void getImageFromURL(String Photo){
         Glide.with(DetailAsmaulhusna.this)
                 .load(Photo)
                 .into(kisahgambar);
+    }
+    public void onBackPressed() {
     }
 }

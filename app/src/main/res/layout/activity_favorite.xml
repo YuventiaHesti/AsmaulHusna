@@ -12,6 +12,12 @@
         android:layout_height="50dp"
         android:orientation="horizontal"
         android:background="@color/colorPrimary">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/btn_back"
+            android:layout_weight="5"
+            android:id="@+id/ivBack"/>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -19,7 +25,7 @@
             android:text="My Favorite"
             android:fontFamily="sans-serif-smallcaps"
             android:textSize="30sp"
-            android:gravity="center"/>
+            android:gravity="center|left"/>
     </LinearLayout>
     <ImageView
         android:layout_width="match_parent"

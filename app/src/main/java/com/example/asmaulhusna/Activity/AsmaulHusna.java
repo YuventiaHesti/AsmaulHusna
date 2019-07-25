@@ -21,12 +21,23 @@ import java.util.List;
 
 public class AsmaulHusna extends AppCompatActivity {
     RecyclerView recyclerView;
-    ImageView Favorite;
+    ImageView Favorite, back;
     private ArrayList<ModelAsmaulHusna> List = new ArrayList<>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_asmaul_husna);
+
+        back=(ImageView)findViewById(R.id.ivback);
+
+        back.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(AsmaulHusna.this,MenuUtama.class);
+                startActivity(intent);
+                finish();
+            }
+        });
 
         recyclerView=(RecyclerView)findViewById(R.id.recyclerview);
         Favorite=(ImageView)findViewById(R.id.imgFavorite);
@@ -58,8 +69,9 @@ public class AsmaulHusna extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(AsmaulHusna.this,FavoriteActivity.class);
                 startActivity(intent);
-            }
-        });
+                finish();
+    }
+});
     }
     private void ShowData(){
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
@@ -67,5 +79,6 @@ public class AsmaulHusna extends AppCompatActivity {
         adapterAsmaulHusna.setListAsmaulHusna(List);
         recyclerView.setAdapter(adapterAsmaulHusna);
     }
-
+    public void onBackPressed() {
+    }
 }

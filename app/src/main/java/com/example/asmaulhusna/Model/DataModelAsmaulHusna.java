@@ -416,7 +416,7 @@ public class DataModelAsmaulHusna {
             {"31",
                     "Al-Khabiir",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alkhabiir),
                     "suara",
                     "Suatu hari, Abdul Qodir muda dititipkan ibunya kepada rombongan pedagang yang akan pergi ke Baghdad.\n" +
                             "Kebetulan Abdul Qodir juga akan menimba ilmu di sana. Ibunya  membekalinya 40 uang emas yang dijahitkan ke dalam baju Abdul Qodir.\n" +
@@ -432,7 +432,7 @@ public class DataModelAsmaulHusna {
             {"32",
                     "Al-Haliim",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alhaliim),
                     "suara",
                     "Suatu hari, ada seorang wanita ingkar membuat keributan di depan Salahuddin Al-Ayyubi, khalifah muslim yang terkenal  santun.\n" +
                             "Saat prajurit akan menangkap wanita itu, Salahuddin langsung mencegahnya, “Biarkan saja dia menemuiku.”\n" +
@@ -447,7 +447,7 @@ public class DataModelAsmaulHusna {
             {"33",
                     "Al-'Azhiim",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alazhiim),
                     "suara",
                     "Suatu hari, Nabi Khidir bertemu dengan seseorang yang ingin diberi sedekah.\n" +
                             "Karena tak memiliki sesuatu untuk disedekahkan, maka Nabi Khidir menawarkan diri untuk dijual sebagai budak di rumah seorang yang kaya.\n" +
@@ -465,7 +465,7 @@ public class DataModelAsmaulHusna {
             {"34",
                     "Al-Ghafuur",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alghafuur),
                     "suara",
                     "Suatu hari, ada seorang wanita yang ingin bertobat. Ia lalu menemui Nabi Musa.\n" +
                             "“Aku telah berulang kali berbuat dosa besar. Mulai hari ini aku tidak akan lagi mengulangi perbuatan dosa lagi…. Bisakah Allah Subhanahu wa Ta’ala menerima tobatku?”\n" +
@@ -479,7 +479,7 @@ public class DataModelAsmaulHusna {
             {"35",
                     "Asy-Syakuur",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.asysyakuur),
                     "suara",
                     "Pada saat Rasulullah Shallallahu`alaihi Wa Sallam. mengunjungi Kota Madinah, semua penduduk Madinah ingin rumahnya disinggahi Rasul.\n" +
                             "Mereka sampai berebutan. Kemudian Rasul berkata, “Agar adil, aku akan membiarkan unta ini berhenti sendiri. Di mana dia berhenti, di sanalah aku akan berhenti.”\n" +
@@ -493,7 +493,7 @@ public class DataModelAsmaulHusna {
             {"36",
                     "Al-'Aliyy",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alaliyy),
                     "suara",
                     "Pada zaman Nabi Musa, ada seorang ahli ibadah yang telah beribadah selama 350 tahun. Pada zaman itu memang usia orang panjang-panjang. Sampai ratusan tahun lamanya.\n" +
                             "Orang itu ingin mengetahui, kelak Allah akan menempatkan dirinya di akhirat nanti. Ia sudah yakin. Tentu Allah akan menempatkannya di dalam surga.\n" +
@@ -507,7 +507,7 @@ public class DataModelAsmaulHusna {
             {"37",
                     "Al-Kabiir",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alkabiir),
                     "suara",
                     "Pada zaman Nabi Sulaiman, ada seorang pemuda yang sangat berbakti kepada ibunya. Saat ibunya itu sudah tua.\n" +
                             "Ia ikhlas menggendongnya dan memapahnya sesuai keinginan ibunya. Setiap saat ibunya selalu berdoa agar putranya diberi kecukupan rezeki, selalu bersyukur, dan ditempatkan di antara langit dan bumi.\n" +
@@ -521,7 +521,7 @@ public class DataModelAsmaulHusna {
             {"38",
                     "Al-Hafiizh",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alhafiizh),
                     "suara",
                     "Sebelum Muhammad diangkat menjadi nabi dan rasul, Allah Subhanahu wa Ta’ala senantiasa menjaga Muhammad kemanapun dirinya pergi.\n" +
                             "Pada masa mudanya, Muhammad pernah menjadi pedagang. Ia bekerja pada seorang saudagar wanita bernama Siti Khadijah. Di kemudian hari, Siti Khadijah kemudian menikah dengan Muhammad.\n" +
@@ -534,7 +534,7 @@ public class DataModelAsmaulHusna {
             {"39",
                     "Al-Muqiit",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.almuqiit),
                     "suara",
                     "Suatu ketika ada seorang pedagang yang dirampok. Ia bahkan akan dibunuh, meski sudah menyerahkan semua harta bendanya.\n" +
                             "Dengan memelas kemudian si pedagang meminta kesempatan kepada si perampok bahwa ia ingin berdoa dan salat sunah dua rakaat terlebih dahulu.\n" +
@@ -548,7 +548,7 @@ public class DataModelAsmaulHusna {
             {"40",
                     "Al-Hasiib",
                     "Yang Maha Menyempitkan",
-                    "kosong",
+                    String.valueOf(R.drawable.alhasiib),
                     "suara",
                     "Suatu hari, Rasulullah pergi ke pasar dengan membawa bekal uang 8 dirham untuk berbelanja. Namun di tengah jalan, beliau bertemu dengan seorang budak perempuan.\n" +
                             "Budak itu menangis karena telah kehilangan uang 2 dirham milik tuannya. Dengan senang hati, Rasul pun memberikan 2 dirham kepadanya.\n" +
