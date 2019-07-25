@@ -28,7 +28,7 @@ public class DataModelAsmaulHusna {
                             "Demi untuk menghargai bangsa semut, Nabi Sulaiman Alaihis Salam sampai memerintah pasukannya untuk berhati-hati.\n" +
                             "\n"+
                             "Padahal dalam kehidupan kita sehari-hari. Sering kita suka meremehkan semut karena ukurannya yang sangat kecil." ,
-                    "http://www.ebookanak.com/wp-content/uploads/2016/04/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-1-Ar-Rohmaan-Perhatian-Nabi-Sulaiman-Pada-Bangsa-Semut-1024x721.jpg",
+                    "https://www.ebookanak.com/wp-content/uploads/2016/04/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-1-Ar-Rohmaan-Perhatian-Nabi-Sulaiman-Pada-Bangsa-Semut-1024x721.jpg",
                     "Allah Subhanallahu wa Ta'ala Maha Pengasih kepada setiap makhluk-Nya, sehingga Allah Subhanallahu wa Ta'ala memiliki nama Ar-Rahmaan.",
                     "Perhatian Nabi Sulaiman pada Bangsa Semut"
             },
@@ -56,7 +56,7 @@ public class DataModelAsmaulHusna {
                             "Pada waktu itu, Allah Subhanallahu wa Ta'ala kemudian mengutus Nabi Musa untuk mengingatkan kemunkaran Firaun. Namun, Firaun menentangnya. Bahkan, Firaun mencoba mengejar untuk membunuh Nabi Musa. Saat itu, Nabi Musa dan umatnya pergi meninggalkan Mesir.\n" +
                             "\n" +
                             "Dengan seizin Allah Subhanallahu wa Ta'ala, saat itu Nabi Musa dan umatnya berhasil menyeberang Laut Merah. Laut Merah terbelah dua menjadi jalan tanah yang bisa dilalui Nabi Musa dan rombongannya. Di belakang, Firaun dan pasukannya mengejarnya. Saat Firaun dan pasukannya berada di tengah-tengah jalan itu. Tiba-tiba air laut menyatu kembali. Maka mereka pun tenggelam di tengah Laut Merah.",
-                    "http://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-3-al-maalik-kenapa-firaun-mengaku-dirinya-tuhan.jpg",
+                    "https://www.ebookanak.com/wp-content/uploads/2016/08/Download-Gambar-Gratis-Asmaul-Husna-for-Kids-3-al-maalik-kenapa-firaun-mengaku-dirinya-tuhan.jpg",
                     "Allah Maha Merajai karena setiap makhluk tunduk pada-Nya. Allah Subhanallahu wa Ta'ala pun memiliki nama Al-Maliik.",
                     "Kenapa Firaun Mengaku Dirinya Tuhan?"
             },
