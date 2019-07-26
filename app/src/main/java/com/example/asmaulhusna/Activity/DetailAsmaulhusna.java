@@ -12,6 +12,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
+import com.example.asmaulhusna.Activity.DetailAsmaulhusna;
+import com.example.asmaulhusna.Fragment.DetailAsmaulHusna;
 import com.example.asmaulhusna.Model.ModelAsmaulHusna;
 import com.example.asmaulhusna.R;
 import com.example.asmaulhusna.SharedPreference.DB_Helper;
@@ -60,7 +62,7 @@ public class DetailAsmaulhusna extends AppCompatActivity {
         final String Kisah = data.getStringExtra("Kisah");
         final String JudulKisah = data.getStringExtra("JudulKisah");
         final String KisahGambar = data.getStringExtra("KisahGambar");
-
+        //Toast.makeText(DetailAsmaulhusna.this,KisahGambar,Toast.LENGTH_LONG).show();
         nomor.setText(Nomor);
         nama.setText(Nama);
         arti.setText(Arti);
