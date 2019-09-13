@@ -704,7 +704,7 @@ public class DataModelAsmaulHusna {
                     "Al-Haqq",
                     "Yang Maha Benar",
                     String.valueOf(R.drawable.alhaqq),
-                    "suara",
+                    String.valueOf(R.raw.alhaqq),
                     "Kaum Madyan dikenal sebagai kaum yang ingkar pada Allah Subhanahu wa Ta’ala. Mereka tak pernah mau beriman pada Allah Yang Mahabenar. \n" +
                             "Mereka lebih percaya untuk menyembah Aikah. Yaitu, sebidang padang pasir yang ditumbuhi beberapa pohon dan tanaman-tanaman. \n" +
                             "Allah Subhanahu wa Ta’ala lalu mengutus Nabi Syuaib as untuk menyampaikan dakwah kebenaran pada Kaum Madyan. Namun, Kaum madyan sama sekali tak pernah mau mengikutinya.Karena mereka tetap ingkar, meski sudah diperingatkan Nabi Syuaib as. Maka akhirnya, Allah Yang Mahabenar pun segera menurunkan bencana pada Kaum Madyan. Tenggorokan orang-orang Madyan terasa kering dan hawa panas membakar kulit mereka. Setelah itu, Allah Subhanahu wa Ta’ala pun menurunkan gempa bumi yang teramat dahsyat. Semua rumah dan gedung di Negeri Madyan pun hancur luluh-lantak. Akhirnya, hanya dalam sekejap. Kaum Madyan pun hancur binasa.\n",
@@ -716,7 +716,7 @@ public class DataModelAsmaulHusna {
                     "Al-Wakiil",
                     "Yang Maha Mewakili",
                     String.valueOf(R.drawable.alwakiil),
-                    "suara",
+                    String.valueOf(R.raw.alwakiil),
                     "Pada saat Perang Badar terjadi, jumlah pasukan muslim hanya 317 orang. Sementara itu, jumlah pasukan kafir Quraisy 1000 orang. Melihat jumlah pasukan muslim yang lebih sedikit. Kemudian Rasul Shallallahu`alaihi Wa Sallam berdoa pada Allah Subhanahu wa Ta’ala memohon pertolongan.\n" +
                             "“Ya, Allah. Sempurnakanlah untukku apa-apa yang telah Engkau janjikan untukku!”\n" +
                             "“Ya Allah. Jika Kau binasakan golongan umat Islam ini, Engkau takkan disembah di muka bumi selamanya….”\n" +
@@ -729,7 +729,7 @@ public class DataModelAsmaulHusna {
                     "Al-Qawiyy",
                     "Yang Maha Kuat",
                     String.valueOf(R.drawable.alqawiyy),
-                    "suara",
+                    String.valueOf(R.raw.alqawiyy),
                     "Di antara para sahabat Rasul Shallallahu`alaihi Wa Sallam, ada yang dikenal memiliki kekuatan dan ditakuti orang. Dialah Umar bin Khattab.Suatu hari, Umar bin Khattab pergi ke tukang cukur. “Tolong engkau potong rambutku yang rapi,” suruh Umar bin Khattab pada tukang cukur. Maka dengan cekatan, sang tukang cukur pun memangkas rambut Umar bin Khattab dengan telaten. \n" +
                             "Tiba-tiba…. “Eheemm!”  Saat Umar bin Khattab sedang dicukur, ia tak sengaja berdehem dengan keras. Tak disangka. Deheman Umar bin Khattab itu mengagetkan sang tukang cukur. Tukang cukur amat ketakutan sampai hampir mau pingsan. Tentu saja Umar bin Khattab tidak menduga akan terjadi seperti itu. Karena merasa bersalah, maka Umar bin Khattab lalu membayar tukang cukur dengan harga lebih mahal. Tanpa dipikir lagi, Umar bin Khattab memberikan 40 dinar pada tukang cukur sambil minta maaf padanya. Allah Subhanahu wa Ta’ala memiliki sifat Mahakuat. Sehingga tak ada sesuatu pun yang bisa mengalahkan kekuatan-Nya.Dengan kekuatan-Nya itu pula, Allah Subhanahu wa Ta’ala menciptakan makhluk-Nya.\n",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-53-al-qowiyy.jpg",
@@ -740,7 +740,7 @@ public class DataModelAsmaulHusna {
                     "Al-Matiin",
                     "Yang Maha Kokoh",
                     String.valueOf(R.drawable.almatiin),
-                    "suara",
+                    String.valueOf(R.raw.almatiin),
                     "Salah satu gunung yang terkenal dalam kehidupan Rasul Shallallahu`alaihi Wa Sallam dan para sahabatnya adalah Gunung Uhud. Allah Subhanahu wa Ta’ala yang Mahakokoh telah menciptakan gunung yang kokoh dan tinggi menjulang. Pada suatu hari, Rasul Shallallahu`alaihi Wa Sallam bersama para sahabatnya. Yaitu Abu Bakar, Umar bin Khattab, dan Utsman bin Affan pergi mendaki Gunung Uhud. Tiba-tiba, permukaan Gunung Uhud itu bergetar kencang, seperti sedang gempa bumi. Para sahabat Rasul Shallallahu`alaihi Wa Sallam menjadi cemas. Namun, Rasul Shallallahu`alaihi Wa Sallam tetap tenang. Rasul Shallallahu`alaihi Wa Sallam pun langsung menepuk permukaan Gunung Uhud.\n" +
                             "“Wahai Gunung Uhud, diamlah!” seru Rasul Shallallahu`alaihi Wa Sallam pada Gunung Uhud.\n" +
                             "“Sesungguhnya di atasmu ada seorang Rasul, orang yang kuat keimanannya, dan dua orang syahid….” Subhanallah. Sungguh menakjubkan. Saat itu juga, Gunung Uhud pun berhenti bergetar.\n",
@@ -752,7 +752,7 @@ public class DataModelAsmaulHusna {
                     "Al-Waliyy",
                     "Yang Maha Melindungi",
                     String.valueOf(R.drawable.alwaliyy),
-                    "suara",
+                    String.valueOf(R.raw.alwaliyy),
                     "Ada seorang wanita salihah yang memiliki suami yang sangat kikir. Suatu hari, datang seorang pengemis ke rumah mereka. Dengan penuh ikhlas dan senang hati, wanita salihah itu memberikan tiga potong roti pada pengemis. Tentu saja sang suami amat murka melihat hal itu.\n" +
                             "“Kenapa engkau berikan roti itu?!”\n" +
                             "Dengan tenang wanita salihah menjawab, “Aku memberikan roti itu karena Allah Subhanahu wa Ta’ala ….”\n" +
@@ -765,7 +765,7 @@ public class DataModelAsmaulHusna {
                     "Al-Hamiid",
                     "Yang Maha Terpuji",
                     String.valueOf(R.drawable.alhamiid),
-                    "suara",
+                    String.valueOf(R.raw.alhamiid),
                     "Suatu waktu, Umar bin Khattab kedatangan Al-Ahnaf bin Qais bersama sahabatnya. Mereka baru pulang dari Persia. Saat itu, mereka memakai pakaian terindah dan mewah yang baru mereka beli dari Persia. Namun saat itu, Umar bin Khattab memalingkan mukanya. Umar bin Khattab tampak tidak berkenan melihat kemewahan para tamunya itu. Beberapa hari kemudian, Al-Ahnaf bin Qais bersama beberapa sahabatnya mengunjungi Khalifah Umar lagi. Tapi kali ini mereka berpakaian sederhana. Maka Khalifah Umar bin Khattab pun dengan ramah menyambut kedatangan mereka. Bahkan, Khalifah Umar bin Khattab merangkul dan memeluk mereka satu persatu, seperti baru bertemu. Allah memiliki sifat terpuji. Allah Subhanahu wa Ta’ala akan memuliakan hamba-Nya yang memiliki sifat terpuji. Seperti sikap Khalifah Umar bin Khattab yang selalu menjaga kesederhanaan dalam hidupnya.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-56-al-hamiid.jpg",
                     "Allah satu-satunya yang layak dipuji dan diagungkan. Karena hanya Allah, yang bisa memberikan segala rezeki dan kebaikan pada makhluk-Nya. Dengan demikian, Allah memiliki nama Al-Hamiid.",
@@ -775,7 +775,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muhshii",
                     "Yang Maha Menghitung",
                     String.valueOf(R.drawable.almuhshii),
-                    "suara",
+                    String.valueOf(R.raw.almuhshii),
                     "Abu Hanifah adalah seorang ulama besar yang juga berprofesi sebagai pedagang kain. Suatu ketika Abu Hanifah menitipkan dagangannya pada sahabatnya. Berupa 80 potong  kain sutera.\n" +
                             "“Sahabatku, dari ke-80 potong kain ini. Ada satu potong kain yang sedikit cacat,” kata Abu Hanifah.\n" +
                             "“Tolong nanti jika ada yang membeli. Sampaikan bahwa kain ini sedikit cacat dan harganya dijual lebih murah daripada kain yang lain,” kata Abu Hanifah menjelaskan kepada sahabatnya.\n" +
@@ -790,7 +790,7 @@ public class DataModelAsmaulHusna {
                     "Al-Mubdi'",
                     "Yang Maha Memulai",
                     String.valueOf(R.drawable.almubdi),
-                    "suara",
+                    String.valueOf(R.raw.almubdi),
                     "Perintah salat wajib 5 waktu dimulai saat Rasul Shallallahu`alaihi Wa Sallam melaksanakan isra dan mikraj. Yaitu, perjalanan Rasul Shallallahu`alaihi Wa Sallam ke langit ketujuh. Awalnya, Allah Subhanahu wa Ta’ala memerintahkan Rasul dan umatnya salat 50 kali dalam sehari semalam. Tapi, kemudian Rasul Shallallahu`alaihi Wa Sallam memohon pada Allah Subhanahu wa Ta’ala agar diberi keringanan.Sehingga akhirnya ditetapkan salat wajib menjadi 5 kali sehari semalam. Di sana, Rasul Shallallahu`alaihi Wa Sallam bertemu Allah Subhanahu wa Ta’ala dan menyaksikan banyak peristiwa menakjubkan selama di langit.Rasul Shallallahu`alaihi Wa Sallam. Dengan ditemani Malaikat Jibril menyaksikan seorang yang sedang memanen. Anehnya, tanaman yang dipotongnya selalu tumbuh dan tumbuh lagi. Dialah orang yang selama di dunianya rajin bersedekah. Dengan bersedekah, hartanya tidak akan hilang, malah akan bertambah berlipat-lipat.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-58-al-mubdi.jpg",
                     "Allah yang pertama memulai menciptakan alam semesta beserta isinya. Tanpa bantuan siapapun. Dari tiada menjadi ada. Dengan demikian, Allah memiliki nama Al-Mubdi’.",
@@ -800,7 +800,7 @@ public class DataModelAsmaulHusna {
                     "Al-Mu'iid",
                     "Yang Maha Mengembalikan",
                     String.valueOf(R.drawable.almuiid),
-                    "suara",
+                    String.valueOf(R.raw.almuiid),
                     "Suatu hari, ada seorang ibu yang datang meminta pertolongan pada Abdullah as-Saqthi.\n" +
                             "“Tolonglah, Syekh. Beberapa waktu lalu putraku ditangkap oleh tentara kerajaan,” kata sang ibu memohon.\n" +
                             "“Aku berharap, engkau bisa menolongku membebaskan segera putraku itu….” lanjut sang ibu.\n" +
@@ -815,7 +815,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muhyi",
                     "Yang Maha Menghidupkan",
                     String.valueOf(R.drawable.almuhyi),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Kaum Nabi Isa as. berjanji akan beriman jika mereka diperlihatkan sebuah mukjizat. Mereka kemudian meminta Nabi Isa Alaihis Salam untuk membangunkan kembali orang yang sudah meninggal. Nabi Isa Alaihis Salam lalu berangkat bersama kaumnya ke sebuah pemakaman. Tak kepalang tanggung, mereka meminta Nabi Isa Alaihis Salam untuk membangunkan orang yang sudah sangat lama meninggal. Mereka memilih makam Sam bin Nuh. Ternyata Sam bin Nuh sudah meninggal 4 ribu tahun lalu. Nabi Isa as. lalu salat dan berdoa di dekat kubur Sam bin Nuh. \n" +
                             "Dengan seizin Allah Subhanahu wa Ta’ala, Sam bin Nuh pun berhasil dibangkitkan dari kubur. Melihat mukjizat seperti itu, barulah kaum Nabi Isa Alaihis Salam menyatakan keimanan mereka pada Nabi Isa Alaihis Salam.\n",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-60-al-muhyi.jpg",
@@ -826,7 +826,7 @@ public class DataModelAsmaulHusna {
                     "Al-Mumiit",
                     "Yang Maha Mematikan",
                     String.valueOf(R.drawable.almumiit),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Pada zaman Nabi Hud Alaihis Salam, hidup seorang raja bernama Syaddad. Karena ingin menyaingi Nabi Hud Alaihis Salam, Raja Syaddad kemudian memerintahkan rakyatnya untuk membangun tempat yang sangat indah mirip surga. Untuk membuat surga itu, prajurit Raja Syaddad merampas semua emas dan perak milik rakyatnya secara paksa. Sampai tak sedikit pun harta milik rakyatnya yang tersisa. Namun, ternyata. Masih ada seuntai emas milik seorang gadis yang tersisa. Prajurit Raja Syaddad pun dengan paksa segera merampas emas itu. Gadis yang lemah itu tak bisa melawan. Gadis itu hanya bisa berdoa pada Allah Subhanahu wa Ta’ala. Ternyata doa gadis itu diaminkan oleh para malaikat. Kemudian Malaikat Jibril memekik dengan keras. Ternyata suara pekikan keras itu, mematikan semua pasukan Syaddad dan menghancurkan surga Raja Syaddad.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-61-al-mumiit.jpg",
                     "Allah yang menciptakan kematian bagi seluruh makhluk yang bernyawa. Dengan demikian, Allah memiliki nama Al-Mumiit.",
@@ -836,7 +836,7 @@ public class DataModelAsmaulHusna {
                     "Al-Hayy",
                     "Yang Maha Hidup",
                     String.valueOf(R.drawable.alhayy),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Pada suatu hari, ada seorang sahabat Rasul Shallallahu`alaihi Wa Sallam bernama Uqail bin Abi Thalib yang kehausan. Padahal saat itu, Uqail bin Abi Thalib dan Rasul Shallallahu`alaihi Wa Sallam berada di tengah gurun pasir. Rasul Shallallahu`alaihi Wa Sallam lalu menyuruh Uqail bin Abi Thalib untuk mendaki sebuah gunung.\n" +
                             "“Dakilah gunung itu, wahai Uqail!”\n" +
                             "“Tolong sampaikan salamku pada gunung itu!”\n" +
@@ -856,7 +856,7 @@ public class DataModelAsmaulHusna {
                     "Al-Qayyuum",
                     "Yang Maha Berdiri Sendiri",
                     String.valueOf(R.drawable.alqayyuum),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "“Apakah Tuhan itu tidur, wahai Musa?” tanya orang Bani Israil pada Nabi Musa Alaihis Salam.\n" +
                             "Untuk menjawab pertanyaan itu, Allah Subhanahu wa Ta’ala pun kemudian menyuruh Nabi Musa Alaihis Salam untuk memegang dua buah botol kaca di tangan kanan dan kiri.\n" +
                             "“Musa, engkau pegang kedua botol kaca itu semalaman. Jangan sampai terjatuh!” kata Allah Subhanahu wa Ta’ala pada Nabi Musa Alaihis Salam. Nabi Musa Alaihis Salam pun kemudian melaksanakan perintah Allah Subhanahu wa Ta’ala. itu pada malam harinya. Setelah beberapa jam memegang kedua botol itu. Nabi Musa Alaihis Salam. tak tahan untuk menahan kantuk, sehingga akhirnya….PRAANGGG! Kedua botol kaca itu, tiba-tiba jatuh dan pecah.\n" +
@@ -871,7 +871,7 @@ public class DataModelAsmaulHusna {
                     "Al-Waajid",
                     "Yang Maha Menemukan",
                     String.valueOf(R.drawable.alwaajid),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Ternyata, perintis dan penemu awal konsep pesawat terbang sebenarnya adalah seorang ilmuwan muslim. Jauh sebelum penemu pesawat terbang, Wright bersaudara, menciptakan pesawat terbang penemuannya. Ilmuwan muslim tersebut telah merintis penemuan pesawat terbangnya pada abad ke-9 M. Sementara Wright bersaudara pada awal abad 20. Abba Ibnu Firnas namanya. Abba Ibnu Firnas merancang pesawat terbangnya seperti sayap burung. Pada saat percobaan. Abba Ibnu Firnas meluncur terbang dari sebuah menara tinggi di Kordoba, Spanyol. Abba Ibnu Firnas bisa terbang beberapa saat sebelum akhirnya jatuh ke tanah. Rancangannya tersebut ternyata telah memberikan inspirasi bagi ilmuwan Barat serba bisa, Leonardo da Vinci, beberapa ratus tahun kemudian.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-64-al-waajid.jpg",
                     "Allah mendapatkan apapun yang Dia kehendaki-Nya saat Dia berkehendak. Dengan demikian, Allah memiliki nama Al-Waajid.",
@@ -881,7 +881,7 @@ public class DataModelAsmaulHusna {
                     "Al-Maajid",
                     "Yang Maha Mulia",
                     String.valueOf(R.drawable.almaajid),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Suatu hari, Muhammad bin Abdul Wahhab ats-Tsaqafy melihat orang yang membawa keranda pengangkut jenazah menuju pemakaman. Ternyata, dari keempat orang yang mengangkut keranda jenazah itu, ada seorang wanita. Karena tak tega, maka Abdul Wahhab pun segera menggantikan wanita itu mengusung keranda jenazah. Ternyata, wanita itu adalah ibu dari putranya yang telah meninggal itu. Ibu itu terpaksa ikut mengusung keranda jenazah putranya, karena tak ada laki-laki lain lagi di desa itu yang mau membantunya. Semasa hidupnya, putra wanita itu seorang banci sehingga orang banyak yang mengucilkannya. Tapi, malamnya, Abdul Wahhab bermimpi tentang pemuda itu. Sungguh luar biasa! Wajah pemuda itu berseri bagaikan bulan purnama. Allah telah melimpahkan kemuliaan dan rahmat-Nya pada pemuda itu karena penghinaan orang-orang padanya. ",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-65-al-maajid.jpg",
                     "Allah Mahamulia karena semua yang Allah ciptakan adalah untuk kebaikan makhluk-Nya. Dengan demikian, Allah memiliki nama Al-Maajid.",
@@ -891,7 +891,7 @@ public class DataModelAsmaulHusna {
                     "Al-Waahid",
                     "Yang Maha Tunggal",
                     String.valueOf(R.drawable.alwaahid),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Nabi Hud Alaihis Salam diutus Allah Subhanahu wa Ta’ala pada Kaum ‘Ad. Nabi Hud Alaihis Salam menyeru pada Kaum ‘Ad, “Wahai kaumku. Sembahlah Allah Yang Mahatunggal. Karena tidak ada Tuhan selain Allah.” Namun, Kaum ‘Ad tak pernah mau mengikuti seruan Nabi Hud Alaihis Salam. Kaum ‘Ad terkenal sombong, pandai, dan kuat. Kaum ‘Ad pandai  membuat bangunan yang kokoh di tempat-tempat yang tinggi. Kaum ‘Ad juga gemar berbuat kerusakan, menyiksa tawanan perang, merampok, dan menyembah patung-patung berhala. Karena tak juga mau beriman pada Allah Subhanahu wa Ta’ala, maka akhirnya Allah Subhanahu wa Ta’ala pun menimpakan bencana maha dahsyat pada Kaum ‘Ad.  Kaum ‘Ad pun diterjang angin kencang amat dahsyat selama 8 hari 7 malam secara terus-menerus tiada henti. Tak ada satu pun rumah, bangunan, dan pohon-pohon yang masih berdiri kokoh. ",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-66-al-waahid.jpg",
                     "Allah adalah satu dalam perbuatan dan nama-Nya. Tidak memiliki sekutu dan tidak ada yang menyamai-Nya. Dengan demikian, Allah memililki nama Al-Waahid.",
@@ -901,7 +901,7 @@ public class DataModelAsmaulHusna {
                     "Al-Ahad",
                     "Yang Maha Esa",
                     String.valueOf(R.drawable.alahad),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Ada seorang wanita muslim yang sangat miskin. Wanita muslim itu kemudian pergi menemui dua orang di jalan. Orang pertama adalah seorang muslim dan orang kedua adalah seorang beragama Majusi.\n" +
                             "“Tuan, berilah aku sedekah. Aku dan anak-anakku perlu makan hari ini….” kata wanita itu memelas pada lelaki muslim.\n" +
                             "Tapi, lelaki muslim itu tak mau memberinya sedekah. Wanita itu kemudian menghampiri lelaki Majusi. Tanpa banyak bicara, lelaki beragama majusi itu langsung memberinya uang. Bahkan, lelaki majusi itu mengajak wanita dan keluarganya tinggal di rumahnya. Pada malam harinya, lelaki majusi itu bermimpi tentang istana yang terbuat dari zamrud berwarna hijau. Istana itu hanya diperuntukkan bagi orang muslim yang mengesakan Allah Subhanahu wa Ta’ala. Maka sejak bermimpi tersebut, lelaki majusi dan keluarganya pun kemudian masuk Islam. Mereka pun mengakui keesaan Allah Subhanahu wa Ta’ala.\n",
@@ -913,7 +913,7 @@ public class DataModelAsmaulHusna {
                     "Ash-Shamad",
                     "Yang Maha Bergantung Semua Makhluk",
                     String.valueOf(R.drawable.ashshamad),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Suatu ketika, Sungai Nil di Mesir mengalami kekeringan hebat. Penduduk Mesir pun jadi menderita karena mereka menjadi kekurangan air. Padahal selama ini, Sungai Nil merupakan sumber utama air minum dan pengairan di Mesir. Untuk mengatasi kekeringan itu, kemudian penduduk Mesir berencana untuk mengorbankan seorang gadis. Gadis itu akan ditenggelamkan ke dalam Sungai Nil. Amru bin Ash, gubernur Mesir saat itu, langsung menghubungi Khalifah Umar bin Khattab untuk meminta bantuan. Dengan cepat, Khalifah Umar bin Khattab mengirimkan sepucuk surat yang ditujukan kepada Sungai Nil.Subhanallah! Setelah surat dari Khalifah Umar bin Khattab dilemparkan ke dalam sungai. Tiba-tiba, air sungai Nil itu mengalir deras. Kedalaman air Sungai Nil itu sampai empat puluh kaki. Penduduk di sekitar Sungai Nil pun bersuka cita dan tidak jadi mengorbankan seorang gadis.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-68-ash-shomad.jpg",
                     "Allah maha dibutuhkan oleh semua makhluk-Nya. Sementara Allah tidak membutuhkan apapun dari makhluk-Nya. Dengan demikian, Allah memiliki nama Ash-Shamad.",
@@ -923,7 +923,7 @@ public class DataModelAsmaulHusna {
                     "Al-Qaadir",
                     "Yang Maha Kuasa",
                     String.valueOf(R.drawable.alqaadir),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Setelah perang Yarmuk selesai, ada tiga prajurit muslim yang terluka parah. Mereka adalah Ikrimah bin Abu Jahal, Ayyas bin Abi Raihan, dan Al-Harits bin Hisyam.Ikrimah bin Abu Jahal kemudian memanggil-manggil ingin minum karena kehausan. Lalu datang seorang prajurit muslim lainnya membawa botol air minum. Namun, saat Ikrimah bin Abu Jahal akan minum. Tiba-tiba, dari tempat lain. Ayyas bin Abi Raihan juga memanggil-manggilnya kehausan. Tanpa sempat minum, Ikrimah bin Abu Jahal mempersilakan agar botol air minum itu diberikan pada Ayyas bin Abi Raihan. Prajurit muslim itu pun segera menghampiri Ayyas bin Abi Raihan. Namun, saat Ayyas bin Abi Raihan akan minum. Di tempat lain lagi, prajurit muslim itu tiba-tiba mendengar Al-Harits bin Hisyam kehausan minta minum. Tanpa sempat minum, Ayyas bin Abi Raihan pun menyuruh botol minum itu diberikan pada Al-Harits bin Hisyam. Namun, sebelum ketiga prajurit muslim itu sempat minum. Mereka bertiga akhirnya terlebih dahulu wafat sebagai syahid.Tanpa sempat meminum setetes air pun.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-69-al-qoodir.jpg",
                     "Allah mampu mewujudkan apa saja yang dikehendaki-Nya dan mampu mewujudkan segala sesuatu. Dengan demikian, Allah memiliki nama Al-Qaadir.",
@@ -933,7 +933,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muqtadir",
                     "Yang Maha Berkuasa",
                     String.valueOf(R.drawable.almuqtadir),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Suatu hari, bersama 12 ribu pasukannya, Nabi Sulaiman Alaihis Salam terbang naik permadani terbang. Namun, di tengah jalan. Tiba-tiba, permadani terbang Nabi Sulaiman Alaihis Salam itu oleng. Maka, ribuan prajurit Nabi Sulaiman Alaihis Salam pun berjatuhan dan tewas.Nabi Sulaiman Alaihis Salam akhirnya tersadar. Itulah teguran Allah Subhanahu wa Ta’ala pada Nabi Sulaiman Alaihis Salam. Tadi memang dalam hati Nabi Sulaiman Alaihis Salam sempat muncul perasaan membanggakan diri dengan kekuasaannya yang nyaris tak terbatas. Allah Subhanahu wa Ta’ala. Maha Berkuasa. Tak ada sesuatu pun yang bisa menghalangi-Nya. Seperti pada kisah permadani terbang Nabi Sulaiman Alaihis Salam. Dengan kekuasaan-Nya yang sangat luar biasa besarnya. Hampir dipastikan tak ada sesuatu pun yang bisa menyamai-Nya. ",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-70-al-muqtadir.jpg",
                     "Allah Maha Berkuasa atas segala yang ada di alam semesta. Dengan demikian, Allah memiliki nama Al-Muqtadir.",
@@ -943,7 +943,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muqaddim",
                     "Yang Maha Mendahulukan",
                     String.valueOf(R.drawable.almuqaddim),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Sebelum manusia diciptakan, Allah Subhanahu wa Ta’ala. telah mendahulukan menciptakan langit dan bumi. Hanya dengan berkata, “Jadilah!” Maka, langit dan bumi pun tercipta dalam enam rangkaian masa. Allah Subhanahu wa Ta’ala menciptakan bumi hanya dalam waktu 2 hari. Setelah bumi tercipta, Allah Subhanahu wa Ta’ala pun kemudian menciptakan tanah kering atau daratan dan kumpulan air atau lautan. Setelah itu, untuk penyeimbang dan pengaman bumi, kemudian Allah Subhanahu wa Ta’ala menciptakan gunung-gunung yang sangat besar dan tinggi-tinggi.Sementara itu, selain bumi. Allah Subhanahu wa Ta’ala juga menciptakan langit dalam waktu hanya 6 hari. Langit terdiri dari 7 lapisan. Allah Subhanahu wa Ta’ala menghiasi langit dengan milyaran bintang, planet, dan benda angkasa lainnya. ",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-71-al-muqoddim.jpg",
                     "Allah bisa mempercepat dan mendahului segala sesuatu. Allah Maha Mendahulukan rahmat dibanding azab-Nya. Dengan demikian, Allah memiliki nama Al-Muqaddim.",
@@ -953,7 +953,7 @@ public class DataModelAsmaulHusna {
                     "Al-Mu'akhkhir",
                     "Yang Maha Mengakhirkan",
                     String.valueOf(R.drawable.almuakhkhir),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Allah Subhanahu wa Ta’ala yang berkuasa menentukan kapan terjadinya hari akhir atau hari kiamat. Menurut Rasul Shallallahu`alaihi Wa Sallam, sebelum terjadi hari kiamat. Ada beberapa tanda yang akan terjadi. Di antaranya dengan kemunculan makhluk bernama dajjal. Dajjal berwajah mengerikan. Dajjal mata kanannya buta. Dajjal akan membawa kesesatan pada manusia. Dajjal pandai berbohong dan mengaku dirinya sebagai tuhan. Dajjal akan membuat bencana yang kedahsyatannya belum pernah terjadi sejak Nabi Adam Alaihis Salam sampai akhir zaman. Selain itu, ada juga tanda-tanda besar kiamat lainnya. Seperti kemunculan kembali Nabi Isa Alaihis Salam dari langit yang membawa kebenaran. Lalu kedatangan Ya’juj dan Ma’juj yang berpikiran sesat, dan matahari terbit dari barat.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-72-al-muakhkhir.jpg",
                     "Hanya Allah yang memulai dan mengakhiri segala sesuatu. Allah mengakhirkan azab-Nya pada orang zalim. Untuk memberi kesempatan pada mereka bertobat. Dengan demikian, Allah memiliki nama Al-Mu’akhkhir.",
@@ -963,7 +963,7 @@ public class DataModelAsmaulHusna {
                     "Al-Awwal",
                     "Yang Maha Awal",
                     String.valueOf(R.drawable.alawwal),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Di saat Kota Madinah sedang sepi. Tiba-tiba, dikejutkan oleh kedatangan 700 unta kafilah dagang. Orang-orang Madinah pun berhamburan keluar melihatnya. Ternyata, kafilah dagang itu milik seorang pengusaha terkaya, Abdurrahman bin Auf. Tujuh ratus unta itu semuanya penuh dimuati barang dagangan. Abdurrahman bin Auf kemudian menemui Siti Aisyah, istri Rasulullah Shallallahu`alaihi Wa Sallam..\n" +
                             "“Aku mendengar dari Rasul Shallallahu`alaihi Wa Sallam, bahwa beliau bermimpi tentang aku di akhirat nanti.”\n" +
                             "“Aku masuk ke surga dengan cara merangkak,” ujar Abdurrahman bin Auf dengan sedih.\n" +
@@ -976,7 +976,7 @@ public class DataModelAsmaulHusna {
                     "Al-Aakhir",
                     "Yang Maha Akhir",
                     String.valueOf(R.drawable.alaakhir),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Awalnya, Nabi Adam Alaihis Salam dan Siti Hawa hidup senang di surga. Namun, iblis yang tidak senang dengan kehadiran Nabi Adam Alaihis Salam dan Siti Hawa di surga terus menggoda untuk mencelakakan keduanya. Selama di surga, Allah Subhanahu wa Ta’ala melarang Nabi Adam Alaihis Salam dan Siti Hawa untuk memakan buah khuldi. Karena jika makan buah tersebut, Nabi Adam Alaihis Salam dan Siti Hawa akan celaka. Bahkan, keduanya akan termasuk orang-orang yang zalim. Namun, dengan kepandaian dan kelicikan iblis.Akhirnya, setelah segala usaha dilakukan, iblis berhasil menggoda dan merayu Nabi Adam Alaihis Salam dan Siti Hawa. Nabi Adam Alaihis Salam dan Siti Hawa pun memetik buah khuldi. Dan…. Tiba-tiba aurat keduanya terbuka! Nabi Adam Alaihis Salam dan Siti Hawa pun segera bertobat. Nabi Adam Alaihis Salam dan Siti Hawa menyesal telah melanggar perintah Allah Subhanahu wa Ta’ala. Karena Nabi Adam Alaihis Salam dan Siti Hawa melakukan larangan, maka Allah Subhanahu wa Ta’ala pun akhirnya memerintahkan keduanya untuk turun ke bumi. Maka akhirnya, kehidupan keduanya di surga pun berakhir.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-74-al-aakhir.jpg",
                     "Tidak ada satupun yang bisa mengakhiri wujud-Nya. Dengan demikian, Allah memiliki nama Al-Aakhir. ",
@@ -986,7 +986,7 @@ public class DataModelAsmaulHusna {
                     "Azh-Zhaahir",
                     "Yang Maha Nyata",
                     String.valueOf(R.drawable.azhzhaahir),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Pada suatu malam, penduduk Mekah ingin membuktikan kerasulan Muhammad Shallallahu`alaihi Wa Sallam. Mereka meminta Rasul Shallallahu`alaihi Wa Sallam untuk memperlihatkan bulan yang terbelah dua di atas langit. Dengan pertolongan Allah Yang Mahanyata. Maka Rasul Shallallahu`alaihi Wa Sallam pun memperlihatkan sebuah mukjizat yang sungguh menakjubkan. Para penduduk Mekah pun terheran-heran dengan mukjizat yang telah Rasul Shallallahu`alaihi Wa Sallam perlihatkan. Tiba-tiba, bulan di atas langit terbelah menjadi dua.\\\n" +
                             "Maka Rasul pun berseru, “Ketahuilah oleh kalian semua. Telah dekat datangnya hari kiamat dan bulan pun terbelah….”\n" +
                             "Sejak itu penduduk Mekah pun semakin percaya dengan kerasulan dan kenabian Muhammad Shallallahu`alaihi Wa Sallam. Allah Yang Maha Nyata akan membuktikan sesuatu menjadi kenyataan sesuai dengan kehendak-Nya.\n",
@@ -998,7 +998,7 @@ public class DataModelAsmaulHusna {
                     "Al-Baathin",
                     "Yang Maha Ghaib",
                     String.valueOf(R.drawable.albaathin),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Pada suatu ketika, para setan menemui Rasul Shallallahu`alaihi Wa Sallam. Mereka datang dari lembah dan gunung. Mereka datang untuk mencelakakan Rasul Shallallahu`alaihi Wa Sallam.\n" +
                             "Ada salah satu setan membawa api, “Ayo, kita bakar Rasul Shallallahu`alaihi Wa Sallam dengan api ini!” seru setan beramai-ramai.\n" +
                             "Rasul Shallallahu`alaihi Wa Sallam pun sampai kaget melihat kedatangan mereka. Untungnya, Malaikat Jibril segera datang menolongnya.\n" +
@@ -1012,7 +1012,7 @@ public class DataModelAsmaulHusna {
                     "Al-Waali",
                     "Yang Maha Memerintah",
                     String.valueOf(R.drawable.alwaliyy),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Suatu hari, saat Rasul Shallallahu`alaihi Wa Sallam sedang salat. Tiba-tiba, datang seorang laki-laki dari Bani Makzum. Laki-laki itu sangat membenci dakwah Rasul Shallallahu`alaihi Wa Sallam.\n" +
                             "“Aku akan melempar Muhammad dengan segenggam batu ini!” kata lelaki itu geram sambil melemparkan batu dengan tangannya ke arah Rasul Shallallahu`alaihi Wa Sallam.\n" +
                             "Untungnya, Allah Subhanahu wa Ta’ala selalu melindungi hambaNya yang bertakwa. Allah Subhanahu wa Ta’ala segera memerintahkan malaikat untuk melindungi Rasul Shallallahu`alaihi Wa Sallam. Tiba-tiba, batu itu mendadak lengket dan menempel di telapak tangan lelaki itu. Bahkan, seterusnya batu itu tetap lengket dan mengering pada telapak orang itu. Teman-temannya langsung mengerubungi untuk menolong dan mengobatinya. Allah Subhanahu wa Ta’ala akan selalu melindungi hamba-Nya yang bertakwa.\n",
@@ -1024,7 +1024,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muta'aalii",
                     "Yang Maha Tinggi",
                     String.valueOf(R.drawable.almutaalii),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Umar bin Khattab, meskipun sebagai khalifah atau kepala negara tak pernah bersikap tinggi.\n" +
                             "“Allah-lah yang berhak disebut Yang Mahatinggi,” kata Khalifah Umar bin Khattab.\n" +
                             "Suatu hari, Khalifah Umar bin Khattab bertemu dengan seorang prajurit muslim yang baru pulang dari pertempuran Qadisiah. Prajurit muslim itu tak kenal Khalifah Umar bin Khattab.Saat itu, Khalifah Umar bin Khattab ingin mengetahui tentang perkembangan perang Qadisiah. Maka prajurit muslim itu pun dengan asyiknya menceritakan semua pengalamannya selama dalam perang Qadisiah. Sambil bercerita, prajurit muslim itu tetap menunggang kuda, sementara Khalfah Umar bin Khattab berjalan kaki mengikutinya. Barulah kemudian, sang prajurit muslim itu tahu setelah ia melihat orang-orang yang berpapasan dengan mereka. Orang-orang itu selalu memberi salam, sambil membungkukkan memberi hormat pada orang yang ada di sampingnya. Dengan tersipu malu, prajurit muslim itu turun dari kudanya. Lalu bersalaman dan memohon maaf pada Khalifah Umar bin Khattab.\n",
@@ -1036,7 +1036,7 @@ public class DataModelAsmaulHusna {
                     "Al-Barr",
                     "Yang Maha Melimpahkan Kebaikan",
                     String.valueOf(R.drawable.albarr),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Suatu hari, Abu Thalhah sedang salat wajib di kebun kurmanya. Saat sedang salat, tiba-tiba datang seekor burung terbang ke sekitar tempat Abu Thalhah salat. Abu Thalhah pun dengan asyik memerhatikan kehadiran burung itu.Sehingga akhirnya, Abu Thalhah lupa dengan jumlah bilangan rakaat salatnya. Abu Thalhah kemudian menemui Rasul Shallallahu`alaihi Wa Sallam, “Ya Rasul. Aku tak ingin ibadahku pada Allah terganggu oleh apapun.”\n" +
                             "“Gara-gara kebun kurma itu, aku sering melalaikan ibadah pada Allah.”\n" +
                             "“Padahal, aku ingin tetap dikaruniai kelimpahan kebaikan dari Allah Subhanahu wa Ta’ala..”\n" +
@@ -1051,7 +1051,7 @@ public class DataModelAsmaulHusna {
                     "At-Tawwaab",
                     "Yang Maha Penerima Tobat",
                     String.valueOf(R.drawable.attawwaab),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Umar bin Khattab, salah seorang sahabat utama Nabi Muhammad Shallallahu`alaihi Wa Sallam dan sekaligus khalifah kedua setelah Nabi Muhammad Shallallahu`alaihi Wa Sallam wafat. Umar bin Khattab adalah salah seorang yang sering melakukan tobat. Umar bin Khattab benar-benar sangat menyesali kesalahannya pada masa lampau, sebelum ia memeluk Islam.Ada dua hal dalam hidup Umar bin Khattab yang takkan pernah terlupakan. Hal itulah yang membuat terkadang Umar bin Khattab tertawa dan menangis, jika mengingat kedua peristiwa kelam tersebut. Umar bin Khattab akan tertawa, jika ia mengingat peristiwa dulu. Umar bin Khattab pernah menyembah berhala yang terbuat dari roti atau batu. Sementara itu, Umar bin Khattab akan menangis jika mengingat peristiwa di mana ia pernah mengubur hidup-hidup putrinya. Karena pada saat itu, memiliki anak perempuan menjadi sesuatu hal yang sangat memalukan. Allah Maha Penerima Tobat setiap manusia yang benar-benar mau bertobat.",
                     "https://www.ebookanak.com/wp-content/uploads/2016/08/Asmaul-Husna-for-Kids.jpg-80-at-tawwaab.jpg",
                     "Pintu tobat selalu terbuka kepada hamba-Nya yang bertobat dengan sungguh-sungguh. Dengan demikian, Allah memiliki nama At-Tawwaab.",
@@ -1061,7 +1061,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muntaqim",
                     "Yang Maha Menyiksa",
                     String.valueOf(R.drawable.almuntaqim),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Salah satu istri Rasulullah Shallallahu'alaihi Wasallam yang terkenal amat dermawan dan penuh kasih sayang adalah Zainab binti Jahsy.\n" +
                             "\n" +
                             "Salah satu kelebihannya Zainab binti Jahsy adalah senang menyedahkan hartanya dari hasil keahliannya bekerja.\n" +
@@ -1091,7 +1091,7 @@ public class DataModelAsmaulHusna {
                     "Al-'Afuww",
                     "Yang Maha Pemaaf",
                     String.valueOf(R.drawable.alafuww),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Rasulullah Shallallahu'alaihi Wasallam terkenal seorang pemaaf.\n" +
                             "\n" +
                             "Untuk meyakinkan dirinya, bahwa Rasulullah Shallallahu'alaihi Wasallam itu adalah seorang nabi utusan Allah Subhanallahu wa Ta'ala.\n" +
@@ -1131,7 +1131,7 @@ public class DataModelAsmaulHusna {
                     "Ar-Ra'uuf",
                     "Yang Maha Belas Kasihan",
                     String.valueOf(R.drawable.arrauuf),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Saat Rasulullah Shallallahu'alaihi Wasallam dan para sahabatnya mendapat perlakuan kasar di Mekah.\n" +
                             "\n" +
                             "Maka Rasulullah Shallallahu'alaihi Wasallam dan para sahabatnya pindah menuju Kota Thaif dengan berjalan kaki.\n" +
@@ -1165,7 +1165,7 @@ public class DataModelAsmaulHusna {
                     "Maalikul Mulk",
                     "Yang Maha Memiliki Kerajaan",
                     String.valueOf(R.drawable.maalikalmulk),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Selain sebagai nabi, Nabi Daud Alaihis Salam juga dikenal sebagi raja yang adil dan bijaksana.\n" +
                             "\n" +
                             "Nabi Daud Alaihis Salam memiliki kerajaan yang hebat dan luas kekuasaannya.\n" +
@@ -1195,7 +1195,7 @@ public class DataModelAsmaulHusna {
                     "Dzul Jalaali Wal Ikraam",
                     "Yang Maha Memiliki Kebesaran dan Kemuliaan",
                     String.valueOf(R.drawable.dzuuljalaaliwalikraam),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Salah satu hamba-Nya yang bertakwa adalah Uwais al-Qarni.\n" +
                             "\n" +
                             "Saat itu, Uwais al-Qarni ikut rombongan para pedagang di sebuah kapal laut.\n" +
@@ -1239,7 +1239,7 @@ public class DataModelAsmaulHusna {
                     "Al-Muqsith",
                     "Yang Maha Adil",
                     String.valueOf(R.drawable.almuqsith),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Muhammad Shallallahu'alaihi Wasallam pertama kali disebut Al-Amin’ pada saat peristiwa pemugaran Kabah.\n" +
                             "\n" +
                             "Saat akan meletakkan kembali batu Hajar Aswad ke tempatnya.\n" +
@@ -1271,7 +1271,7 @@ public class DataModelAsmaulHusna {
                     "Al-Jaami'",
                     "Yang Maha Penghimpun",
                     String.valueOf(R.drawable.aljaami),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Pada zaman Nabi Musa Alaihis Salam, pernah terjadi kemarau yang sangat panjang.\n" +
                             "\n" +
                             "Umat Nabi Musa Alaihis Salam pun menjadi resah dan gelisah.\n" +
@@ -1303,7 +1303,7 @@ public class DataModelAsmaulHusna {
                     "Al-Ghaniyy",
                     "Yang Maha Kaya",
                     String.valueOf(R.drawable.alghaniyy),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Allah yang Mahakaya telah menganugerahkan kekayaan dan harta benda yang berlimpah pada Abdurrahman bin Auf.\n" +
                             "\n" +
                             "Abdurrahman bin Auf pun menjadi seorang sahabat nabi yang terkenal kaya raya dari hasil berdagang.\n" +
@@ -1329,7 +1329,7 @@ public class DataModelAsmaulHusna {
                     "Al-Mughniyy",
                     "Yang Maha Pemberi Kekayaan",
                     String.valueOf(R.drawable.almughniyy),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Pada zaman Nabi Musa Alaihis Salam, ada seorang kaya raya bernama Qarun.\n" +
                             "\n" +
                             "Awalnya, Qarun hidup sangat kekurangan.\n" +
@@ -1369,7 +1369,7 @@ public class DataModelAsmaulHusna {
                     "Al-Maani'",
                     "Yang Maha Pencegah",
                     String.valueOf(R.drawable.almaani),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Suatu ketika, Nabi Ibrahim  Alaihis Salam dan istrinya, Siti Sarah melakukan perjalanan ke Mesir.\n" +
                             "\n" +
                             "Ketika tiba di Mesir, keduanya ditangkap pasukan kerajaan Mesir.\n" +
@@ -1401,7 +1401,7 @@ public class DataModelAsmaulHusna {
                     "Adh-Dhaarr",
                     "Yang Maha Pemberi Derita",
                     String.valueOf(R.drawable.adhdhaar),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Siapapun yang berniat buruk pada Ka’bah, maka Allah Subhanallahu wa Ta'ala akan menimpakan derita padanya.\n" +
                             "\n" +
                             "Begitu pula yang terjadi pada Raja Tubba’.\n" +
@@ -1439,7 +1439,7 @@ public class DataModelAsmaulHusna {
                     "An-Naafi'",
                     "Yang Maha Pemberi Manfaat",
                     String.valueOf(R.drawable.annaafi),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Rasulullah Shallallahu'alaihi Wasallam dan Abu Bakar sedang melakukan perjalanan dari Mekah ke Madinah.\n" +
                             "\n" +
                             "Di tengah perjalanan, Rasulullah Shallallahu'alaihi Wasallam dan Abu Bakar kehabisan bekal dan sangat kehausan.\n" +
@@ -1471,7 +1471,7 @@ public class DataModelAsmaulHusna {
                     "An-Nuur",
                     "Yang Maha Bercahaya",
                     String.valueOf(R.drawable.annuur),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Allah Subhanallahu wa Ta'ala juga pernah memberikan sebuah mukjizat pada Rasul Shallallahu'alaihi Wasallam.\n" +
                             "\n" +
                             "Pada suatu ketika, ada seorang sahabat Rasul Shallallahu'alaihi Wasallam bernama Ibnu Abbas.\n" +
@@ -1507,7 +1507,7 @@ public class DataModelAsmaulHusna {
                     "Al-Haadii",
                     "Yang Maha Pemberi Petunjuk",
                     String.valueOf(R.drawable.alhaadii),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Saat Syeikh Al-Asma’i pergi berhaji.\n" +
                             "\n" +
                             "Tiba-tiba, di tengah jalan.\n" +
@@ -1547,7 +1547,7 @@ public class DataModelAsmaulHusna {
                     "Al-Badii'",
                     "Yang Maha Pencipta",
                     String.valueOf(R.drawable.albadii),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Allah Subhanallahu wa Ta'ala adalah Tuhan Maha Pencipta.\n" +
                             "\n" +
                             "Pada saat Adam Alaihis Salam diciptakan Allah Subhanallahu wa Ta'ala di surga.\n" +
@@ -1581,7 +1581,7 @@ public class DataModelAsmaulHusna {
                     "Al-Baaqii",
                     "Yang Maha Kekal",
                     String.valueOf(R.drawable.albaaqii),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Orangtua  Nabi Ibrahim Alaihis Salam tidak pernah mengajarkan tentang Tuhan.\n" +
                             "\n" +
                             "Karena kedua orangtua Nabi Ibrahim Alaihis Salam adalah penyembah patung berhala.\n" +
@@ -1615,7 +1615,7 @@ public class DataModelAsmaulHusna {
                     "Al-Waarits",
                     "Yang Maha Mewarisi",
                     String.valueOf(R.drawable.alwaarits),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Imam Bukhori adalah salah satu dari tokoh penghimpun hadits sahih paling termashur.\n" +
                             "\n" +
                             "Sejak kecil, Imam Bukhori terkenal amat cerdas dan memiliki daya ingat yang kuat.\n" +
@@ -1651,7 +1651,7 @@ public class DataModelAsmaulHusna {
                     "Ar-Rasyiid",
                     "Yang Maha Pemberi Petunjuk",
                     String.valueOf(R.drawable.arrasyiid),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Tahukah kalian, apakah warisan nabi dan rasul yang paling berharga?\n" +
                             "\n" +
                             "Bukanlah kekayaan dan harta yang diwariskan nabi dan rasul.\n" +
@@ -1678,7 +1678,7 @@ public class DataModelAsmaulHusna {
                     "Ash-Shabuur",
                     "Yang Maha Sabar",
                     String.valueOf(R.drawable.ashshabuur),
-                    "suara",
+                    String.valueOf(R.raw.almuhyi),
                     "Nabi Yunus Alaihis Salam pernah kehilangan kesabaran pada saat berdakwah pada Kaum Ninawa.\n" +
                             "\n" +
                             "Karena setelah sekian lama berdakwah, hanya dua orang saja yang mau beriman pada Allah Subhanallahu wa Ta'ala.\n" +

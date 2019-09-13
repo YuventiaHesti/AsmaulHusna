@@ -1,6 +1,7 @@
 package com.example.asmaulhusna.Activity;
 
 import android.content.Intent;
+import android.media.MediaPlayer;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -22,15 +23,15 @@ public class MainActivity extends AppCompatActivity {
         this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
 
-
-
+        final MediaPlayer SuaraLagu = MediaPlayer.create(MainActivity.this,R.raw.welcome);
+        SuaraLagu.start();
         final Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
             public void run() {
                 changeActivity();
                 finish();
             }
-        }, 3000); //3000 L = 3 detik
+        }, 5000); //5000 L = 5 detik
     }
 
     private void changeActivity(){
